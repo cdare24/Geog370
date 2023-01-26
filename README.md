@@ -4,4 +4,4 @@
 
 ## Link to where vector layer is from: https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
 
-## Link to geoJSON files:
+## Link to geoJSON files (I'm not sure I attached this link correctly): https://github.com/cdare24/Geog370/tree/main/data_geo
