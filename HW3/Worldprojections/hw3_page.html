@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projections</title>
+    <title>HW3</title>
 </head>
 <body>
-    <h1>In this project I learned how to display images in different projections</h1>
+    <h1 style ="color:aquamarine">In this project I learned how to display images in different projections</h1>
     
     <p>Changing projections in QGIS is actually very easy. Using the data given by world projections you click the button at the right bottom corner which has a sphere icon with a cone over it (similar to how a conic projection was demonstrated as being made. From there you are able to search for different projection models.</p>
     
     <h2>WGS84 Projection</h2>
-    <h3>This projection distorts both the size and the shape of countries as they move to be further from the equator. You can see this distortion because of the Indicatrix Mapper pluggin. The circles aroun the equator show that section of the map is it's true size and shape while the further you get from the equator the circles grow bigger and form more of an eclipse shape.</h3>
+    <h3>This projection distorts both the size and the shape of countries as they move to be further from the equator. You can see this distortion because of the Indicatrix Mapper pluggin. The circles around the equator show that section of the map is it's true size and shape while the further you get from the equator the circles grow bigger and form more of an eclipse shape. As a whole this map is shown as a rectangle.</h3>
     <a href=".//maps/4326.png">
     <img src=".//maps/4326.png" alt="WGS84" width='500px'>
     </a>
@@ -22,47 +22,47 @@
     </a>
 
     <h2>WGS84: Pseudo Mercator Projection</h2>
-    <h3>Discription</h3>
+    <h3>This projection shows the poles as being very distorted in size but retains the shape very well, similar to the first projection. The longitudinal lines are spaces evenly while the latitude lines placed by the Indicatrix are further apart as you get closer to the poles.</h3>
     <a href=".//maps/Pseudo Mercator.png">
     <img src=".//maps/Pseudo Mercator.png" alt="WGS84: Psuedo Mercator" width='500px'>
     </a>
 
     <h2>Sphere Winkel Projection</h2>
-    <h3>Discription</h3>
+    <h3>This projection of the world balances the area and size pretty well. The circles do still get bigger as you move verictally away from the equator but the difference is not as drastic as other models make it. This however means that the shapes are not perfect the longitudinal lines become spaced further apart as you move away from the Prime Meridian. This can be seen in how the circles become more eliptical away from the Prime Meridian.</h3>
     <a href=".//maps/53018.png">
     <img src=".//maps/53018.png" alt="Sphere Winkel" width='500px'>
     </a>
 
     <h2>Sphere Cylindrical Equal Area Projection</h2>
-    <h3>Discription</h3>
+    <h3>This projection shows the earth with an accurate land size while the shape is distorted. You can tell this by how the circles turn to eclipses near the poles but retain the same area as the circles in the middle.</h3>
     <a href=".//maps/53034.png">
     <img src=".//maps/53034.png" alt="ESRI: 53034" width='500px'>
     </a>
 
     <h2>World Equidistant Conic Projection</h2>
-    <h3>Discription</h3>
+    <h3>As a conic projection this map is much more accurate closer to the point of the cone or the center of the map and becomes much bigger in size towards the edges and also becomes distorted in shape. This map has an equal distance kept between the latitude lines however the longitudinal lines become further apart as you move to the South Pole and closer together as you move to the North Pole.</h3>
     <a href=".//maps/54027.png">
-    <img src=".//maps/454027.png" alt="ESRI: 54027" width='500px'>
+    <img src=".//maps/54027.png" alt="ESRI: 54027" width='500px'>
     </a>
 
     <h2>North Pole Azimuthal Equidistant</h2>
-    <h3>Discription</h3>
+    <h3>Similar to the previous map this projection shows distortion towards the edges in both size and shape while the center is more accurate in those two characteristics. The latitude lines are again equaly separated. The main visual difference is that this map shows the East of Asia much closer to Alaska than the other projection.</h3>
     <a href=".//maps/102016.png">
     <img src=".//maps/102016.png" alt="ESRI: 102016" width='500px'>
     </a>
 
-    <h2>Choose</h2>
-    <h3>Discription</h3>
+    <h2>World Mollweide</h2>
+    <h3>This projection shows the world as an ellipse where the area remains accurate but other things are distorted. The shape expecially on the edges and corners of this map are very distorted in shape. The distance between things is also distorted and only the equator and Prime Meridian are perpendicular of all the latitude and longitudinal lines.</h3>
     <a href=".//maps/54009.png">
     <img src=".//maps/54009.png" alt="ESRI: 54009" width='500px'>
     </a>
 
-    <h2>Choose</h2>
-    <h3>Discription</h3>
+    <h2>World Sinusoidal</h2>
+    <h3>I think this projection looks really funny the shapes are distorted as you move towards the poles. However this map does keep equal area and distance as you stay on one singular parallel so it is useful in that way.</h3>
     <a href=".//maps/54008.png">
     <img src=".//maps/54008.png" alt="ESRI: 54008" width='500px'>
     </a>
-    <h2 style="color:red">Now, you should <u>add the following projections on your own:</u></h2>
+    <h2 style="color:blueviolet">Projections I added on own:</u></h2>
     <h3>EPSG: 3857, 53018, 54034, 54027, 102016, and two additional projections that you choose.</h3>
     <p></p>
     <h2>Data used for this project</h2>
