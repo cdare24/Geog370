@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework 6</title>
+</head>
+<body>
+<h1>Homework 6.2: Census data choropleth </h1>
+<h2>Claudia Dare</h2>
+<h3>My maps show the ratio of women per county in Florida age 15-19 who have given birth in the past 12 months versus the number of women age 15-19 in that county.</h3>
+<!-- Your map goes here -->
+<a href="Equal count (given) copy.png">
+    <img src="Equal count (given) copy.png" alt="your map" width='500px'>
+    </a>
+<h3>This map shows the ratio as an equal count quantile so there are the same number of counties in each range. This is useful in seeing where the median is and what is above vs below the median. However as everything is equally spaced it it harder to see if there are clusters in any areas. It can also be hard to understand how the ratio is broken up since for example the first section is from 0% to .0083% while the last interval is between 1.2029% and 5.8511% which are very different in size (I put the ratios in percents here because I felt less numbers would be slightly easier to understand).</h3>
+<a href="Equal Interval copy.png">
+    <img src="Equal Interval copy.png" alt="your map" width='500px'>
+    </a>
+<h3>This map shows the ratio where each interval is the same size. This is nicer for the viewer to understand in most cases because the intervals are more conceptually understood. One of the negatives however is that not all of the intervals are used in this case you can see that none of the counties fall into the interval between .035 and .047. Additionally this does not show us much of the variation as most of the counties fall into the first interval but you are able to see the one county that is much higher than the rest.</h3>
+<a href="Natural Breaks copy.png">
+    <img src="Natural Breaks copy.png" alt="your map" width='500px'>
+    </a>
+<h3>My final map shows the counties with Natural Breaks being used to decide the intervals. This is useful for finding clusters and and trying to make the intervals different. A benefit of this is that all the intervals are used and you can see more variation between the counties.</h3>
+<!-- Link to your shapefile in Github and you CSV -->
+</body>
+</html>
