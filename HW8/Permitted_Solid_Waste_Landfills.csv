@@ -1,0 +1,692 @@
+﻿X,Y,ObjectId,Locationid,Permitid,Site_Name,Address1,City,Zip,County,Primarywaste_Type,Primaryoperation_Type,Permitstatus,Permitexpdate,Latitude,Longitude,Status
+-8778635.897,4254918.1259,1,P0376,92J-DEMO-1991,"Holly Springs Disposal, Inc.",Old Holly Springs Apex Road (S.R. 1153),Holly Springs,27540,Wake,CD,LF,InactiveClosed,-,35.667152,-78.859828,Closed
+-8552902.9015,4149831.7096,2,P0377,25F-DEMO-,Rainey Pit Demo Landfill,S.R. 1771,Havelock,28532,Craven,CD,LF,InactiveClosed,-,34.896551,-76.832034,Closed
+-8776701.2756,4304480.1814,3,P0378,32E-LCID-,"Latta, Earl J.,  Inc.",East Club Blvd.,Durham,27704,Durham,LCID,LF,InactiveClosed,-,36.028039,-78.842449,Closed
+-8756595.0831,4269668.8129,4,P0379,92F-DEMO-,Dorothea Dix,Western Blvd.,Raleigh,27603,Wake,CD,LF,InactiveClosed,-,35.774731,-78.661832,Closed
+-8765296.7051,4232038.4624,5,P0380,92C-DEMO-,Jerry Gregory,Unknown,Unknown,Unknown,Wake,CD,LF,InactiveClosed,-,35.5,-78.74,Closed
+-8754164.756,4262161.8869,6,P0382,92E-DEMO-,H.L. Montague,U.S. Hwy 70 W.,Garner,27529,Wake,CD,LF,InactiveClosed,-,35.72,-78.64,Closed
+-8788673.7981,4249828.6519,7,P0383,92G-DEMO-1983,Duke Energy Progress - Shearon Harris,Unknown,New Hill,27562,Wake,CD,LF,InactiveClosed,-,35.63,-78.95,Closed
+-8770833.9592,4271733.1591,8,P0384,92H-DEMO-1984,"Cary, Town of",N. Dixon Street,Cary,27513,Wake,CD,LF,InactiveClosed,-,35.789775,-78.789742,Closed
+-8751123.0622,4274284.4919,9,P0385,92I-LCID-,W.E. Garrison Company,2200 N. Blvd.,Raleigh,27604,Wake,LCID,LF,InactiveClosed,-,35.808364,-78.612676,Closed
+-8638123.2037,4356367.9086,10,P0386,42A-LCID-,Roanoke Valley LCID Landfill,2055 NC Highway 301,Weldon,27870,Halifax,LCID,LF,Active,9/30/2020,36.404097,-77.597581,Open
+-8672940.6008,4047790.712,11,P0387,65C-LCID-,"Kelmer, Inc.",Lorranne Circle,Wilmington,28412,New Hanover,LCID,LF,InactiveClosed,-,34.141298,-77.910351,Closed
+-8782627.3687,4163701.6269,12,P0388,26I-DEMO-,"Fayetteville, City of Airport",Airport Road,Fayetteville,28306,Cumberland,CD,LF,InactiveClosed,-,34.998679,-78.895684,Closed
+-8931928.5131,4292950.0795,13,P0389,29A-LCID-,Hill & Sons Demo Site,Off Enterprise Road at Salvage Road,Lexington,27295,Davidson,LCID,LF,InactiveClosed,-,35.944229,-80.236879,Closed
+-9208927.2511,4274797.054,14,P0390,58A-DEMO-1991,Madison County Demo Landfill,Sweetwater Branch Road,Marshall,28753,Madison,CD,LF,InactiveClosed,-,35.812098,-82.725201,Closed
+-8706254.2943,4292624.0689,15,P0391,35B-DEMO-,Shoffner Industries Demo,NC Hwy 98,Bunn,27508,Franklin,CD,LF,InactiveClosed,-,35.941858,-78.209613,Closed
+-9187995.2906,4229614.7978,16,P0392,11D-DEMO-,Valley Springs School Demo,Long Shoals / Overlook,Asheville,28803,Buncombe,CD,LF,InactiveClosed,-,35.482273,-82.537166,Closed
+-8611133.0139,4136762.8404,17,P0393,67A-LCID-,Morton Trucking Site,121 Garnet Lane,Jacksonville,28546,Onslow,LCID,LF,Active,3/31/2025,34.800205,-77.355124,Open
+-8597164.9782,4187669.519,18,P0394,2504-MSWLF-1993,CRSWMA - Interim Regional LF, Old US Hwy 70 (S.R. 1005),New Bern,28523,Craven,MSW,LF,InactiveClosed,-,35.174861,-77.229647,Closed
+-8869633.4582,4355842.3411,19,P0395,79F-DEMO-,Ernest J. Lee,NC Hwy 14,Reidsville,27320,Rockingham,CD,LF,InactiveClosed,-,36.400297,-79.677273,Closed
+-8847386.9258,4186207.0962,20,P0396,63B-LCID-,Lucky Lady Landfill,141 Dawkins Street,Aberdeen,28315,Moore,LCID,LF,InactivePermitted,6/17/2015,35.164122,-79.477429,Open
+-8926451.0376,4330472.897,21,P0398,34NN-LCID-,Ronnie F. Smith,Stafford Mill Road,Walkertown,27019,Forsyth,LCID,LF,InactiveClosed,-,36.216648,-80.187674,Closed
+-9207119.1999,4184494.214,22,P0400,88C-DEMO-,Cantrell Construction Co.,East Fork Road,Brevard,28712,Transylvania,CD,LF,InactiveClosed,-,35.151542,-82.708959,Closed
+-9004794.6896,4178838.2737,23,P0401,60AP-LCID-,Ervin Lane,Ervin Lane,Charlotte,28134,Mecklenburg,LCID,LF,InactiveClosed,-,35.109989,-80.891447,Closed
+-8978910.6816,4192077.157,24,P0402,60AR-LCID-,"Tommy Price, Inc.",10900 Pine Grove Avenue,Charlotte,28227,Mecklenburg,LCID,LF,Active,6/10/2019,35.207219,-80.658927,Open
+-8994671.7404,4208633.6806,25,P0403,60AS-DEMO-,Flora Blevins,5710 Cheshire Road,Charlotte,28269,Mecklenburg,CD,LF,InactiveClosed,-,35.328651,-80.800511,Closed
+-8984727.0136,4208884.3353,26,P0404,60AT-LCID-,Amphitheater Entertainment Corp.,707 Blockbuster Road,Charlotte,28262,Mecklenburg,LCID,LF,InactiveClosed,-,35.330488,-80.711176,Closed
+-8997049.7473,4210232.401,27,P0405,60K-LCID-,"Blythe Industries, Inc.",5600 David Cox Road,Charlotte,28269,Mecklenburg,LCID,LF,InactiveClosed,-,35.340367,-80.821873,Closed
+-8998935.9448,4199325.9673,28,P0406,60J-LCID-,John Crosland Company,Newland Road,Charlotte,28206,Mecklenburg,LCID,LF,InactiveClosed,-,35.260407,-80.838817,Closed
+-8785669.8417,4353534.1593,29,P0119,7301-MSWLF-1973,Person County Landfill,Cedar Grove Church Road (S.R. 1552),Roxboro,27574,Person,MSW,LF,Post-Closure,-,36.383606,-78.923015,Closed
+-8944703.9832,4314061.5096,30,P0407,3408-DEMO-,Mt. View Road,Mt. View Road,Winston-Salem,27104,Forsyth,CD,LF,InactiveClosed,-,36.097616,-80.351643,Closed
+-8737329.7981,4309821.3908,31,P0408,3505-LCID-2020,Wall Recycling,2095 U.S. Highway 1 S.,Franklinton,27525,Franklin,LCID,LF,Active,4/17/2025,36.066833,-78.488769,Open
+-8757661.0785,4260665.2609,32,P0409,92O-LCID-,Buffaloe Landfill,5525 Wake Academy Drive,Raleigh,27603,Wake,LCID,LF,InactiveClosed,11/15/2015,35.709084,-78.671408,Closed
+-8760563.9569,4292574.9825,33,P0410,92L-LCID-,"Colonial Building Co., Inc.",Norwood Road (S.R. 1834),Raleigh,27614,Wake,LCID,LF,InactiveClosed,-,35.941501,-78.697485,Closed
+-8771459.1294,4254594.6207,34,P0411,92N-LCID-1986,Currin Brothers Landfill,4525 Sunset Lake Road,Holly Springs,27526,Wake,LCID,LF,Active,6/3/2020,35.664791,-78.795358,Open
+-8728110.0952,4266908.5455,35,P0412,92Q-DEMO-,Marshburn Demo Landfill,Lake Myra Road (S.R. 2505),Wendell,27591,Wake,CD,LF,InactiveClosed,-,35.754611,-78.405947,Closed
+-8741465.2058,4256778.9119,36,P0413,92P-LCID-,"Massengill & Sons, Inc.",Guy Road (S.R.2558),Garner,27520,Wake,LCID,LF,InactiveClosed,-,35.680731,-78.525918,Closed
+-8743654.1923,4286856.9059,37,P0414,92R-LCID-,Neuse Demo Landfill,Wayne Adams Thornton,Raleigh,27616,Wake,LCID,LF,InactiveClosed,-,35.899903,-78.545582,Closed
+-8762761.181,4291658.6067,38,P0415,92K-DEMO-,Robuck Landfill,Victory Church Road,Raleigh,27613,Wake,CD,LF,InactiveClosed,-,35.934836,-78.717223,Closed
+-8748194.3577,4284330.792,39,P0416,92M-LCID-,Wall Recycling LCID Landfill,3000 Gresham Lake Road,Raleigh,27615,Wake,LCID,LF,Active,2/7/2023,35.881519,-78.586367,Open
+-8903011.049,4339804.8301,40,P0417,79G-LCID-,Thomas L. Stanley Demo,Gideon Church Road,Stokesdale,27357,Rockingham,LCID,LF,InactiveClosed,-,36.284252,-79.977109,Closed
+-8762081.1303,4318627.0413,41,P0421,39A-DEMO-,Lewis Dull Landfill,Lake Road / Hwy 56,Dutchville,27522,Granville,CD,LF,InactiveClosed,-,36.130748,-78.711114,Closed
+-9019751.2424,4208217.5273,42,P0422,36A-LCID-,Old 27 LCID Landfill,123 Tate Street,Mount Holly,28120,Gaston,LCID,LF,InactiveClosed,-,35.325601,-81.025804,Open
+-9019751.2424,4208217.5273,43,P0422,36A-LCID-2010,Old 27 LCID Landfill,123 Tate Street,Mount Holly,28120,Gaston,LCID,LF,Active,10/21/2020,35.325601,-81.025804,Open
+-8652291.1693,4295424.2843,44,P0424,33D-LCID-,Barnhill Contracting - Gay Pit,Gay Road (S.R. 1268),Rocky Mount,27801,Edgecombe,LCID,LF,InactiveClosed,-,35.962221,-77.724854,Closed
+-8780470.3309,4160657.7503,45,P0425,26J-LCID-,Andrews Site,Doc Bennett Road,Fayetteville,28306,Cumberland,LCID,LF,InactivePermitted,-,34.976277,-78.876307,Closed
+-8903000.9189,4352880.2807,46,P0426,79H-DEMO-,Wall Demo Landfill,500 Benjamin Road,Madison,27025,Rockingham,CD,LF,InactiveClosed,-,36.378877,-79.977018,Closed
+-8811825.0239,4198082.0145,47,P0429,4304-TIRELF-1992,Central Carolina Tire Monofill  ,1086 Poplar Drive,Spring Lake,28390,Harnett,Tire,LF,Active,5/5/2024,35.251282,-79.157971,Open
+-8773312.4876,4308035.0957,48,P0430,32F-LCID-,Fogleman and Fogleman Landfill & Recycling Facility,4005 Intermere Road,Durham,27704,Durham,LCID,LF,Active,12/16/2021,36.053861,-78.812007,Open
+-8554483.7496,4147386.2198,49,P0432,25G-DEMO-,Cieszko Construction Co.,Hwy 101 E.,Havelock,28532,Craven,CD,LF,InactiveClosed,-,34.878531,-76.846235,Closed
+-8787363.679,4341441.553,50,P0433,73C-DEMO-,Thomas Lindsey Demo Landfill,Ed Brooks Rd.,Timberlake,27583,Person,CD,LF,InactiveClosed,-,36.296103,-78.938231,Closed
+-9209138.7581,4274613.5227,51,P0436,5803-MSWLF-1993,Madison County Landfill,271 Craig Rudisil Road,Marshall,28753,Madison,MSW,LF,Post-Closure,-,35.810761,-82.727101,Closed
+-8879955.7806,4266550.393,52,P0437,76B-LCID-1992,Randolph County Demo Landfill,1254 County Land Road,Randelman,27317,Randolph,LCID,LF,InactiveClosed,-,35.752,-79.77,Closed
+-8671942.065,4044918.9681,53,P0438,65D-DEMO-,Freeman Site,Carolina Beach Road,Carolina Beach,28428,New Hanover,CD,LF,InactiveClosed,-,34.119944,-77.901381,Closed
+-9222225.4775,4180010.2494,54,P0440,8807-MSWLF-1990,Transylvania County Landfill,500 Howell Road,Brevard,28712,Transylvania,MSW,LF,Active,6/13/2050,35.118601,-82.844661,Open
+-8710258.3451,4061110.3605,55,P0442,24A-LCID-,Nance Site,Nance Road (S.R. 1503),Chadburn,28442,Columbus,LCID,LF,InactiveClosed,-,34.240271,-78.245582,Closed
+-8886735.6942,4323798.87,56,P0444,41C-LCID-,R.K. Simmons Demo Landfill,1918 Trosper Road,Greensboro,27455,Guilford,LCID,LF,InactiveClosed,-,36.168263,-79.830905,Closed
+-8896352.1397,4323985.3034,57,P0446,41D-DEMO-,Hazel Sizemore Demo Landfill,5879 Stanley Huff Road,Summer Field,27358,Guilford,CD,LF,InactiveClosed,-,36.169615,-79.917291,Closed
+-8890485.2686,4299908.2227,58,P0447,41F-DEMO-,Joyce Demo Landfill,Commercial Road,Greensboro,27407,Guilford,CD,LF,InactiveClosed,-,35.994817,-79.864588,Closed
+-8867065.2062,4300195.6508,59,P0448,41E-DEMO-,Ed Montgomery Demo Landfill,Wades Store Road,Greensboro,27406,Guilford,CD,LF,InactiveClosed,-,35.996906,-79.654202,Closed
+-8888374.985,4300410.2981,60,P0449,41G-DEMO-,Strickland Groome Demo Landfil,Montview Street,Greensboro,27406,Guilford,CD,LF,InactiveClosed,-,35.998466,-79.845631,Closed
+-8888482.4083,4300481.4353,61,P0450,41H-DEMO-,Groome Demo Landfill,Montview Street,Greensboro,27406,Guilford,CD,LF,InactiveClosed,-,35.998983,-79.846596,Closed
+-8893537.8717,4332262.9026,62,P0451,41J-LCID-2010,"Heritage Farm Properties, LLC LCID Landfill",2124 Scalesville Road,Summerfield,27358,Guilford,LCID,LF,Active,10/8/2020,36.22962,-79.89201,Open
+-8864842.0446,4323896.7747,63,P0452,41K-LCID-,Coble Demo Landfill,Ruralview Road,Gibsonville,27249,Guilford,LCID,LF,InactiveClosed,-,36.168973,-79.634231,Closed
+-8888320.6611,4300661.1381,64,P0453,41L-DEMO-,L. Baynes Demo Landfill,Montview Street,Greensboro,27406,Guilford,CD,LF,InactiveClosed,-,36.000289,-79.845143,Closed
+-8894715.8545,4317780.1255,65,P0454,41M-DEMO-,Fitzgerald Demo Landfill,Flemming Street,Greensboro,27410,Guilford,CD,LF,InactiveClosed,-,36.124603,-79.902592,Closed
+-9224792.5049,4238832.2772,66,P0455,44A-LCID-1992,Haywood County Landfill,Incinerator Road,Canton,28721,Haywood,LCID,LF,InactiveClosed,-,35.54967,-82.867721,Closed
+-8974867.7803,4232682.101,67,P0456,13C-DEMO-,"Fieldcrest Cannon, Inc.",Loop Road,Kannapolis,28081,Cabarrus,CD,LF,InactiveClosed,-,35.504707,-80.622609,Closed
+-8900773.1933,4336393.6607,68,P0460,79I-DEMO-,R.H. Morgan LCID Landfill,NC Hwy 68,Stokesdale,27357,Rockingham,CD,LF,InactiveClosed,-,36.259547,-79.957006,Closed
+-8671881.9525,4044864.7785,69,P0462,65E-LCID-,Congleton Demo / Cypree Landfill,Carolina Beach Road,Wilmington,28428,New Hanover,LCID,LF,InactiveClosed,-,34.119541,-77.900841,Closed
+-8711683.1232,4034718.534,70,P0464,10E-LCID-1993,Brunswick County LCID Landfill,172 Landfill Road NE,Bolivia,28422,Brunswick,LCID,LF,Active,9/16/2020,34.044051,-78.258381,Closed
+-8687602.0457,4023819.745,71,P0465,10D-DEMO-,Kenneth McClain Landscaping,PO Box 10381,Southport,28461,Brunswick,CD,LF,InactiveClosed,-,33.962887,-78.042057,Closed
+-8565166.6358,4152627.3091,72,P0466,2505-CDLF-,Phoenix Recycling Site #1 (stockpiled 1999),899 U.S. Hwy 70 W.,Havelock,28532,Craven,CD,LF,InactiveClosed,-,34.917146,-76.942201,Closed
+-8778226.5752,4255095.2973,73,P0467,9214-CDLF-1993,"BFI-Holly Springs Disposal, Inc.",4300 Holly Springs / Apex Road,Holly Springs,27540,Wake,CD,LF,Post-Closure,-,35.668445,-78.856151,Open
+-8629881.6652,4291833.9014,74,P0469,33E-LCID-,Barnhill Contracting - APCO,E Northern Blvd (S.R. 1518),Tarboro,27886,Edgecombe,LCID,LF,InactiveClosed,-,35.936111,-77.523546,Closed
+-8979431.8794,4211721.6192,75,P0470,1304-MSWLF-1992,BFI - Charlotte Mtr Speedway Landfill V,5105 Morehead Road,Concord,28027,Cabarrus,MSW,LF,Active,3/6/2052,35.351279,-80.663609,Open
+-9239614.0272,4254612.159,76,P0471,4407-MSWLF-1993,Haywood Co White Oak Landfill,3898 Fines Creek Road,Waynesville,28785,Haywood,MSW,LF,Active,10/8/2053,35.664919,-83.000865,Open
+-8997269.9373,4269049.7499,77,P0472,4903-MSWLF-1993,Iredell County Sanitary LF,354 Twin Oaks Road,Statesville,28625,Iredell,MSW,LF,Active,10/8/2053,35.770219,-80.823851,Open
+-8800372.4747,4277215.7825,78,P0473,19C-LCID-,M & W DEMO LANDFILL,Lystra Road,Chapel Hill,27517,Chatham,LCID,LF,InactiveClosed,-,35.829716,-79.055091,Closed
+-8996453.0748,4217690.0641,79,P0477,6013-CDLF-1993,Greenway Waste Solutions at North Meck,15300 Holbrooks Road,Huntersville,28078,Mecklenburg,CD,LF,Active,1/20/2017,35.394997,-80.816513,Open
+-8686778.2815,4288705.6938,80,P0479,64A-DEMO-,Wallace Green Landfill,Sir Gus Road (S.R. 1920),Spring Hope,27882,Nash,CD,LF,InactiveClosed,-,35.913355,-78.034657,Closed
+-9020114.7005,4222772.4403,81,P0483,55A-DEMO-,Duke Power Landfill,Old Plank Road (S.R. 1511),Stanly,28164,Lincoln,CD,LF,InactiveClosed,-,35.432206,-81.029069,Closed
+-8826909.3715,4291037.88,82,P0486,0104-MSWLF-1994,Alamance County Austin Quarter SW Mgmt. Facility,2701 Austin Quarter Road,Graham,27253,Alamance,MSW,LF,Active,12/16/2020,35.930321,-79.293476,Open
+-8925630.1677,4278968.4537,83,P0487,2906-MSWLF-1994,Davidson County MSW Lined Landfill,220 Davidson County Landfill Road,Lexington,27292,Davidson,MSW,LF,Post-Closure,-,35.84248,-80.1803,Open
+-9015744.52,4329226.0573,84,P0488,9704-MSWLF-1993,Wilkes County MSWLF,9219 Elkin Highway,Roaring River,28669,Wilkes,MSW,LF,Active,10/7/2053,36.207611,-80.989811,Open
+-8579129.6622,4317157.2127,85,P0492,0803-MSWLF-1993,East Carolina Environmental Regional Landfill,1922 Republican Road,Aulander,27805,Bertie,MSW,LF,Active,10/8/2053,36.120083,-77.067633,Open
+-8794026.8185,4203486.3543,86,P0494,43B-LCID-1993,Harnett County LCID Landfill,Poplar Drive (S.R. 1164),Lillington,28390,Harnett,LCID,LF,InactiveClosed,-,35.290918,-78.998087,Closed
+-8576410.0157,4201243.2241,87,P0496,2507-INDUS-,Weyerhaeuser Company,Hudnell Spur Road,New Bern,28527,Craven,Indus,LF,InactiveClosed,-,35.274469,-77.043202,Closed
+-8805053.2367,4113524.295,88,P0497,78K-LCID-,Bear Swamp LCID Landfill,Bullock Road (S.R. 1549),Lumberton,28360,Robeson,LCID,LF,InactiveClosed,-,34.628608,-79.097139,Closed
+-8625481.0944,4137761.4628,89,P0498,67B-LCID-,Mosely Demolition Landfill,S.R. 1320,Jacksonville,28540,Onslow,LCID,LF,InactiveClosed,-,34.807571,-77.484015,Closed
+-8609878.4433,4236161.1648,90,P0508,74C-LCID-,E.R. Lewis Construction,5508 County Home Road,Greenville,27835,Pitt,LCID,LF,Active,3/5/2023,35.530145,-77.343854,Open
+-9258903.1346,4166553.7243,91,P0519,5704-CDLF-1993,Highlands C&D Landfill,1080 Rich Gap Road,Highlands,28763,Macon,CD,LF,Post-Closure,-,35.019664,-83.174142,Open
+-8929920.8661,4311510.187,92,P0522,348801-DEMO-,Walter S. Foster,1519 Stadium Drive,Winston-Salem,27108,Forsyth,CD,LF,InactiveClosed,-,36.079095,-80.218844,Closed
+-8929582.2322,4305978.7147,93,P0523,348811-DEMO-,Tim Beeman,Rosann Drive,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.038925,-80.215802,Closed
+-8945205.8114,4303952.0411,94,P0524,348812-LCID-,William Fredrick,S. Stratford Road,Clemmons,27103,Forsyth,LCID,LF,InactiveClosed,-,36.024202,-80.356151,Closed
+-8928077.304,4318877.8899,95,P0525,348817-DEMO-,Clint Bodford,New Walkertown Road,Winston-Salem,27105,Forsyth,CD,LF,InactiveClosed,-,36.132568,-80.202283,Closed
+-8927823.1616,4313155.5773,96,P0527,348919-DEMO-,J.R. Yarbrough,Reynolds Manor Drive,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.09104,-80.2,Closed
+-8928496.4219,4330048.7595,97,P0528,349002-DEMO-,Timothy Phillips,7025 Baux Mountain Road,Germanton,27109,Forsyth,CD,LF,InactiveClosed,-,36.213574,-80.206048,Closed
+-8944482.2347,4301003.4897,98,P0529,349004-DEMO-,Frank Edwards,5645 Loop Road,Clemmons,27012,Forsyth,CD,LF,InactiveClosed,-,36.002777,-80.349651,Closed
+-8956293.4553,4314467.9363,99,P0530,349005-LCID-,H.G. MYERS,7775-7805 Shallowford Road,Lewisville,27023,Forsyth,LCID,LF,InactiveClosed,-,36.100566,-80.455753,Closed
+-8930462.8807,4306074.118,100,P0531,349007-DEMO-1990,"Winston-Salem, City of",Old Milwaukee Lane,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.039618,-80.223713,Closed
+-8912207.3748,4324744.1698,101,P0533,34AA-LCID-,Piney Hill Acres LCID Landfill,2020 Piney Grove Road,Kernersville,27284,Forsyth,LCID,LF,Active,4/6/2020,36.175118,-80.059721,Open
+-8948364.2793,4310617.1388,102,P0534,349018-DEMO-,D.W. Redding,5900 Marty Lane,Clemmons,27012,Forsyth,CD,LF,InactiveClosed,-,36.072611,-80.384524,Closed
+-8930964.709,4325380.6216,103,P0535,349102-LCID-,Diane Lawson,5650 Pineview Drive,Winston-Salem,27105,Forsyth,LCID,LF,InactiveClosed,-,36.179733,-80.228221,Closed
+-8912080.4706,4324573.9959,104,P0536,349103-DEMO-,Dean Weatherman,2081 Piney Grove Road,Kernersville,27284,Forsyth,CD,LF,InactiveClosed,-,36.173884,-80.058581,Closed
+-8947727.1979,4329555.7929,105,P0537,349104-DEMO-,Ed Shamel,4345 Briggs Road,Tobaccoville,27050,Forsyth,CD,LF,InactiveClosed,-,36.210001,-80.378801,Closed
+-8957662.0172,4312709.3894,106,P0538,34902C-DEMO-,Carl Stewart,1439 Hauser Road,Lewisville,27023,Forsyth,CD,LF,InactiveClosed,-,36.087801,-80.468047,Closed
+-8584880.7611,4244731.0017,107,P0540,0701-DEMO-,Beaufort County,The Dirt Road,Washington,27889,Beaufort,CD,LF,InactiveClosed,-,35.592771,-77.119296,Closed
+-8489969.9858,4333493.6691,108,P0541,7002-CDLF-1996,Pasquotank County C&D Landfill,983 Simpson Ditch Road,Elizabeth City,27909,Pasquotank,CD,LF,Active,4/4/2056,36.238538,-76.266698,Open
+-8982329.1918,4193715.3148,109,P0545,6001-CDLF-1993,Harrisburg Road C&D Landfill,Harrisburg Road (S.R. 2805),Charlotte,28215,Mecklenburg,CD,LF,InactiveClosed,-,35.219242,-80.689636,Closed
+-9122979.6986,4211444.8321,110,P0548,8103-CDLF-2002,Rutherford County C&D,656 Laurel Hill Drive,Rutherfordton,28139,Rutherford,CD,LF,Active,7/24/2062,35.349251,-81.953121,Open
+-8748290.5378,4111043.3101,111,P0549,0901-MSWLF-,Bladen County,NC Hwy 87 Bypass,Elizabethtown,28337,Bladen,MSW,LF,InactiveClosed,-,34.610267,-78.587231,Closed
+-8784437.0896,4354105.9382,112,P0554,7301-MSWLF-,Person County Landfill,Cedar Grove Church Road (S.R. 1552),Roxboro,27574,Person,MSW,LF,InactiveClosed,-,36.387741,-78.911941,Closed
+-8997226.5227,4269176.2488,113,P0556,4903-CDLF-1993,Iredell County Solid Waste,354 Twin Oaks Road,Statesville,28625,Iredell,CD,LF,InactiveClosed,-,35.771141,-80.823461,Open
+-8815671.5576,4213982.3071,114,P0557,5301-CDLF-2002,Lee County C&D Landfill,331 Landfill Road,Sanford,27330,Lee,CD,LF,Post-Closure,-,35.367841,-79.192525,Open
+-8976501.0599,4325605.1471,115,P0560,9902-CDLF-1993,Yadkin County C&D Landfill,1149 Landfill Road,Yadkinville,27055,Yadkin,CD,LF,Post-Closure,-,36.181361,-80.637281,Open
+-8832553.8263,4302806.518,116,P0002,0101-MSWLF-1979,Alamance County Landfill,3066 Swepsonville Road (S.R. 2158),Graham,27253,Alamance,MSW,LF,Post-Closure,-,36.015879,-79.344181,Closed
+-8928817.356,4314989.5627,117,P0247,34V-DEMO-,Cleveland Harris,Barbara Jane Avenue,Winston-Salem,27101,Forsyth,CD,LF,InactiveClosed,-,36.104352,-80.208931,Closed
+-8749278.9435,4111300.0269,118,P0941,0905-CDLF-2000,Bladen County C&D Landfill,1003 Mercer Mill Road,Elizabethtown,28337,Bladen,CD,LF,Post-Closure,-,34.612165,-78.59611,Open
+-8946213.5868,4301200.8146,119,P0248,34W-DEMO-,Chris Shelton,End of Clementine Drive,Clemmons,27012,Forsyth,CD,LF,InactiveClosed,-,36.004211,-80.365204,Closed
+-8973293.1661,4209821.7823,120,P0946,1306-CDLF-2000,Highway 49 C&D Landfill & Recycling Greenway Waste,2105 Speedrail Court,Concord,28025,Cabarrus,CD,LF,Active,7/1/2016,35.337358,-80.608464,Open
+-8620519.1394,4245315.559,121,P0120,7401-MSWLF-1974,Pitt County Landfill,Allen Road (S.R. 1203),Greenville,27834,Pitt,MSW,LF,Post-Closure,-,35.597041,-77.439441,Closed
+-9148702.4047,4207267.5287,122,P0121,7502C-MSWLF-1981,Polk County MSW Landfill,NC Hwy 9,Columbus,28756,Polk,MSW,LF,Post-Closure,-,35.318638,-82.184192,Closed
+-8879113.092,4267020.8907,123,P0122,7601-MSWLF-1983,Randolph County Landfill,Henley Country Road (S.R. 2215),Asheboro,27317,Randolph,MSW,LF,Post-Closure,-,35.75543,-79.76243,Closed
+-8879843.3479,4266462.6056,124,P0123,7602-INDUS-1983,Energizer Battery Manufacturing Inc.,County Land Road,Randleman,27317,Randolph,Indus,LF,Active,12/15/2043,35.75136,-79.76899,Open
+-8855271.908,4166961.11,125,P0124,7702-MSWLF-,Richmond County Landfill,Docker Road (S.R. 1306),Rockingham,28347,Richmond,MSW,LF,Post-Closure,-,35.022661,-79.548261,Closed
+-8784275.899,4135753.3273,126,P0125,7803-MSWLF-1985,Robeson County Landfill,NC Hwy 20,St. Pauls,28284,Robeson,MSW,LF,Post-Closure,-,34.792758,-78.910493,Closed
+-8888213.683,4351520.3847,127,P0126,7901-MSWLF-1979,Rockingham County Landfill,Shuff Road / South of NC Hwy 704,Wentworth,27025,Rockingham,MSW,LF,Post-Closure,-,36.369041,-79.844182,Closed
+-8964131.6833,4252512.6873,128,P0127,8001-MSWLF-1982,Rowan County Landfill,Airport Road (S.R. 1516),Salisbury,28147,Rowan,MSW,LF,Post-Closure,-,35.649595,-80.526165,Closed
+-8972105.8324,4275631.8377,129,P0128,8002-INDUS-1974,Celanese Fibers,Needmore Road (S.R. 1984),Salisbury,27054,Rowan,Indus,LF,Post-Closure,-,35.818179,-80.597798,Closed
+-9106722.6002,4200774.4458,130,P0129,8102-MSWLF-1977,Rutherford County Landfill,Avondale Landfill Road (S.R. 2138),Forest City,28043,Rutherford,MSW,LF,Post-Closure,-,35.271031,-81.807081,Closed
+-9123224.6015,4211204.6281,131,P0130,8103-MSWLF-1974,Rutherford County MSW Facility,656 Laurel Hill Drive,Rutherfordton,28139,Rutherford,MSW,LF,Post-Closure,-,35.347491,-81.955321,Open
+-8733728.0559,4161434.0621,132,P0131,8202-MSWLF-2000,"Sampson County Disposal, LLC",7434 Roseboro Highway,Roseboro,28382,Sampson,MSW,LF,Active,6/1/2026,34.981991,-78.456414,Open
+-8836800.6649,4126473.5203,133,P0132,8301-MSWLF-1980,Scotland County Landfill,Rocky Ford Road (S.R. 1611),Maxton,28364,Scotland,MSW,LF,Post-Closure,-,34.724271,-79.382331,Closed
+-8922382.7555,4205324.2634,134,P0133,8401-MSWLF-1983,"Albemarle, City of",Valley Drive (S.R. 1720),Albemarle,28001,Stanly,MSW,LF,InactiveClosed,-,35.304393,-80.151128,Closed
+-8934805.2314,4351273.0613,135,P0134,8501-MSWLF-1986,Stokes County Landfill,Sizemore Road (S.R. 1997),Danbury,27019,Stokes,MSW,LF,Post-Closure,-,36.367252,-80.262721,Closed
+-9086801.866,4330847.1012,136,P0561,9502-CDLF-1989,Watauga County C&D Landfill,336 Landfill Road,Boone,28607,Watauga,CD,LF,InactiveClosed,-,36.21936,-81.62813,Closed
+-8914301.9623,4339531.814,137,P0135,8503-INDUS-1984,"Duke Energy Carolinas - Belews Creek, Pine Hall Road",3195 Pine Hall Road,Belews Creek,27009,Stokes,Indus,LF,Post-Closure,-,36.282275,-80.078537,Open
+-8968985.7697,4360861.5921,138,P0136,8602-MSWLF-1983,Surry County Landfill,P.O. Box 1542,Mount Airy,27030,Surry,MSW,LF,Post-Closure,-,36.43658,-80.56977,Closed
+-8991802.9258,4341468.7624,139,P0137,8603-MSWLF-1981,Surry County Landfill,Joe LN Mill Road (S.R. 1121),Elkin,28621,Surry,MSW,LF,Post-Closure,-,36.2963,-80.77474,Closed
+-9292524.8491,4221903.5617,140,P0138,8701-MSWLF-1980,Swain County Landfill,Laurel Branch Road (S.R. 1311),Swain,28713,Swain,MSW,LF,InactiveClosed,-,35.425846,-83.476171,Closed
+-9205290.4433,4199300.6098,141,P0139,8801-INDUS-1979,Ecusta Ash Landfill,Old US 64 (S.R. 1504),Brevard,28768,Transylvania,Indus,LF,Post-Closure,-,35.260221,-82.692531,Closed
+-9218919.1773,4185373.4967,142,P0140,8803-MSWLF-1975,Transylvania County Landfill,U.S. Hwy 64,Rosman,28712,Transylvania,MSW,LF,Post-Closure,-,35.158,-82.81496,Closed
+-9206298.9979,4200550.8354,143,P0141,8805-INDUS-1974,Ecusta Landfill,Ecusta Road (S.R. 1512),Brevard,28712,Transylvania,Indus,LF,Post-Closure,-,35.269391,-82.701591,Closed
+-9196419.3931,4188816.2785,144,P0142,8806-INDUS-1972,Dupont,S.R. 1593,Brevard,28768,Transylvania,Indus,LF,InactiveClosed,-,35.183281,-82.612841,Closed
+-8957083.6011,4168739.2646,145,P0143,9001-MSWLF-1982,Union County Landfill,Austin Road (S.R. 1630),Wingate,28174,Union,MSW,LF,Post-Closure,-,35.035741,-80.462851,Closed
+-8729858.2565,4351943.4327,146,P0144,9101-MSWLF-1974,Vance County Landfill,NC Hwy 39,Henderson,27537,Vance,MSW,LF,Post-Closure,-,36.372101,-78.421651,Closed
+-8745896.9461,4271853.9253,147,P0145,9201-MSWLF-1979,"Raleigh, City of Landfill",U.S. Hwy 64,Raleigh,27519,Wake,MSW,LF,Post-Closure,-,35.790655,-78.565729,Closed
+-8777603.6314,4256983.249,148,P0146,9203-MSWLF-1980,Wake County Landfill - Feltonsville,6000 Old Smithfield Rd,Apex,27539,Wake,MSW,LF,Post-Closure,-,35.682222,-78.850555,Closed
+-8773544.7001,4259818.4611,149,P0147,9204-MSWLF-1981,Sorrell,Smith Road (S.R. 1303),Apex,27539,Wake,MSW,LF,Post-Closure,-,35.702907,-78.814093,Closed
+-8737100.9252,4299362.2816,150,P0148,9205-MSWLF-1980,"Wake Forest, Town of Landfill",S.R. 1941,Wake Forest,27587,Wake,MSW,LF,Post-Closure,-,35.990849,-78.486713,Closed
+-8764373.6438,4272278.2643,151,P0149,9208-MSWLF-1982,N.C. State Fair Landfill,Nowell Road,Raleigh,27607,Wake,MSW,LF,Post-Closure,-,35.793747,-78.731708,Closed
+-8746787.0567,4288583.2287,152,P0150,9209-MSWLF-1984,Wake County North Wake Landfill,9025 Deponies Drive,Raleigh,27614,Wake,MSW,LF,Post-Closure,-,35.912464,-78.573725,Closed
+-8790011.9697,4251771.036,153,P0151,9210-INDUS-1986,Duke Energy Progress - Shearon Harris,Harris Plant Site,Raleigh,27562,Wake,Indus,LF,Post-Closure,-,35.644181,-78.962021,Closed
+-8698293.6149,4354155.7196,154,P0152,9301-MSWLF-1982,Warren County Landfill,Baltimore Road (S.R. 1600),Warrenton,27589,Warren,MSW,LF,Post-Closure,-,36.388101,-78.138101,Closed
+-8546819.7366,4278941.1262,155,P0153,9401-INDUS-1980,"Domtar Paper Company Landfill, Lined #3",NC Highway 149 N.,Plymouth,27962,Washington,Indus,LF,InactiveClosed,-,35.842281,-76.777388,Open
+-8546819.7366,4278941.1262,156,P0153,9401-INDUS-2008,"Domtar Paper Company Landfill, Lined #3",NC Highway 149 N.,Plymouth,27962,Washington,Indus,LF,Active,5/22/2068,35.842281,-76.777388,Open
+-8534525.8347,4289403.2628,157,P0154,9402-MSWLF-1980,Washington County Landfill,718 Landfill Road,Mackeys,27970,Washington,MSW,LF,Post-Closure,-,35.91843,-76.66695,Closed
+-9087018.1598,4330937.8946,158,P0155,9502-MSWLF-1984,Watauga County Landfill,336 Landfill Road,Boone,28607,Watauga,MSW,LF,Post-Closure,-,36.220018,-81.630073,Closed
+-8691017.3277,4203275.0996,159,P0156,9601-MSWLF-1981,Wayne County Landfill,460B Landfill Road,Dudley,28333,Wayne,MSW,LF,Post-Closure,-,35.289369,-78.072737,Closed
+-8683280.4004,4229305.2985,160,P0157,9602-MSWLF-1981,Wayne County Landfill,704 Hinnant Road,Goldsboro,27863,Wayne,MSW,LF,Post-Closure,-,35.480009,-78.003235,Closed
+-8680087.0895,4211997.3213,161,P0158,9604-CDLF-,Seymour Johnson AFB,Collier Avenue,Goldsboro,27531,Wayne,CD,LF,InactiveClosed,-,35.353299,-77.974549,Closed
+-9038937.6019,4316852.3844,162,P0159,9701-MSWLF-1988,Wilkes County Landfill,Poplar Grove Road (S.R. 1210),Wilkesboro,28697,Wilkes,MSW,LF,Post-Closure,-,36.117871,-81.198158,Closed
+-9008249.9352,4337796.6591,163,P0160,9702-MSWLF-1975,Wilkes County Landfill,Lewis Road,Elkin,28621,Wilkes,MSW,LF,Post-Closure,-,36.269709,-80.922486,Closed
+-9021244.3707,4328352.9276,164,P0161,9703-INDUS-1981,Louisiana-Pacific Corporation,1151 ABTCo Road,N Wilkesboro,28659,Wilkes,Indus,LF,Active,1/7/2041,36.201282,-81.039217,Open
+-8666433.6426,4261396.9587,165,P0162,9801-MSWLF-1990,Wilson County Landfill,Landfill Road (S.R. 1503),Wilson,27893,Wilson,MSW,LF,Post-Closure,-,35.714421,-77.851898,Closed
+-8976669.1523,4325390.9651,166,P0163,9902-MSWLF-1981,Yadkin County Landfill,Sizemore Road (S.R. 1589),Yadkinville,27055,Yadkin,MSW,LF,Post-Closure,-,36.179808,-80.638791,Closed
+-8910225.8878,4327727.8878,167,P0166,3406-MSWLF-1989,Piedmont Sanitary Landfill,Freeman Road,Kernersville,27284,Forsyth,MSW,LF,Post-Closure,-,36.196751,-80.041921,Closed
+-8981462.3469,4219317.5513,168,P0167,1303-TIRELF-1988,U.S. Tire Recycling Partners LP,6322 Poplar Tent Road,Concord,28027,Cabarrus,Tire,LF,Active,6/30/2016,35.406914,-80.681849,Open
+-8801210.7105,4366771.6914,169,P0168,7302-INDUS-1988,Duke Energy Progress - Roxboro ,1700 Dunnaway Road,Semora,27343,Person,Indus,LF,Active,12/20/2021,36.479281,-79.062621,Open
+-8967732.0896,4267161.7696,170,P0169,8003-MSWLF-1988,Rowan County,789 Campbell Road,Woodleaf,27054,Rowan,MSW,LF,Active,4/21/2021,35.756457,-80.558508,Open
+-9179033.7377,4213417.1599,171,P0170,4504-TP-,Allen Research Associates,Howard Gap Road,Hendersonville,28792,Henderson,Indus,LF,InactiveClosed,-,35.363701,-82.456663,Closed
+-8933777.3072,4319526.6777,172,P0171,3407-INDUS-1990,R.J. Reynolds Tobacco Co.,RJR Whitaker Park,Winston-Salem,27105,Forsyth,Indus,LF,InactiveClosed,-,36.137275,-80.253487,Closed
+-9281889.8302,4191412.9975,173,P0172,5703-MSWLF-1992,Macon County Landfill (Open),1448 Lakeside Drive,Franklin,28734,Macon,MSW,LF,Active,3/25/2052,35.202344,-83.380635,Open
+-8577806.964,4241013.5637,174,P0186,07B-LCID-,Washington City LCID,Market Street,Washington,27889,Beaufort,LCID,LF,InactiveClosed,-,35.565611,-77.055751,Closed
+-8579416.7552,4239506.28,175,P0187,07C-DEMO-,"Washington, City of",Plymouth & 3rd Street,Washington,27889,Beaufort,CD,LF,InactiveClosed,-,35.554596,-77.070212,Closed
+-8688863.1842,4073722.2771,176,P0188,10B-DEMO-1984,Dupont - Cape Fear Plant,3500 Daniels Road N.E.,Leland,28451,Brunswick,CD,LF,InactiveClosed,-,34.333878,-78.053386,Closed
+-8683594.544,4023498.7025,177,P0189,10C-DEMO-1983,Duke Energy Progress - Southport,Hwy 87,Southport,28461,Brunswick,CD,LF,InactiveClosed,-,33.960495,-78.006057,Closed
+-9194979.1415,4238297.729,178,P0190,11A-LCID-,L.T. Parrott Demo Landfill,Hwy 191,Asheville,28806,Buncombe,LCID,LF,InactiveClosed,-,35.545763,-82.599903,Closed
+-9171906.062,4234344.2224,179,P0191,11B-DEMO-,Fairview Elementary School,U.S. Hwy 74,Fairview,28730,Buncombe,CD,LF,InactiveClosed,-,35.516861,-82.392634,Closed
+-8973800.6717,4218207.9059,180,P0192,13A-DEMO-,Manual Kiser Demo Site,U.S. Hwy 29,Concord,28027,Cabarrus,CD,LF,InactiveClosed,-,35.398789,-80.613023,Closed
+-8964884.3144,4211267.8176,181,P0193,13B-DEMO-,Joe B. Plott,U.S. Hwy 601 S.,Concord,28025,Cabarrus,CD,LF,InactiveClosed,-,35.347954,-80.532926,Closed
+-8574810.9112,4121460.8804,182,P0194,16A-DEMO-,U.S. MARINE CORPS BOGUE FIELD DEMO,Hwy 24 Bogue,Newport,28570,Carteret,CD,LF,InactiveClosed,-,34.687253,-77.028837,Closed
+-8522338.6881,4136041.789,183,P0195,16B-DEMO-,"Jerry Lawrence Contractors, Inc.",Fire Tower Road (S.R. 1325),Beaufort,28516,Carteret,CD,LF,InactiveClosed,-,34.794886,-76.557471,Closed
+-9024178.0846,4258937.5957,184,P0196,18A-DEMO-,Bill Head / Comm / Scope,"Route 1, RPR 1004",Catawba,28609,Catawba,CD,LF,InactiveClosed,-,35.696481,-81.065571,Closed
+-9044501.1274,4253030.6675,185,P0197,1811-LCID-2008,"Newton, City of LCID",1171 Boston Road,Newton,28658,Catawba,LCID,LF,InactiveClosed,-,35.653376,-81.248136,Open
+-9044501.1274,4253030.6675,186,P0197,18B-LCID-,"Newton, City of LCID",1171 Boston Road,Newton,28658,Catawba,LCID,LF,InactiveClosed,-,35.653376,-81.248136,Open
+-9055580.1997,4270577.851,187,P0198,18D-DEMO-,"Huffman Grading, Inc.",29th Av Drive NW (S.R. 1318),Catawba,28601,Catawba,CD,LF,InactiveClosed,-,35.781356,-81.347661,Closed
+-9049041.7381,4266669.4558,188,P0199,18E-DEMO-,Huffman Grading,34th Street N.E.,Hickory,28601,Catawba,CD,LF,InactiveClosed,-,35.752868,-81.288925,Closed
+-8848962.4306,4184320.6259,189,P0949,6301-CDLF-1992,Moore County C&D Landfill,456 Turning Leaf Way,Aberdeen,28315,Moore,CD,LF,Active,3/27/2060,35.150267,-79.491582,Open
+-8923173.4578,4326587.9835,190,P0249,34Y-DEMO-,Shirley Jones,U.S. Hwy 311 / Walnut Cove Road,Walkertown,27051,Forsyth,CD,LF,InactiveClosed,-,36.188487,-80.158231,Closed
+-9033592.2626,4278225.5526,191,P0004,0201-MSWLF-1979,Alexander County Landfill,Paynes Dairy Road (S.R. 1620),Taylorsville,28681,Alexander,MSW,LF,Post-Closure,-,35.83707,-81.15014,Closed
+-9042899.1286,4262161.7497,192,P0200,18F-DEMO-,Bracewell Furniture Demo Site,Old U.S. Hwy 70,Conover,28613,Catawba,CD,LF,InactiveClosed,-,35.719999,-81.233745,Closed
+-9022161.1981,4258802.0315,193,P0201,18G-DEMO-,Travis Demolition Landfill,Raymonds Drive (S.R. 1829),Catawba,28609,Catawba,CD,LF,InactiveClosed,-,35.695492,-81.047453,Closed
+-9050929.1601,4246791.3284,194,P0202,18H-LCID-1989,Blackburn Resource Recovery Facility,Rocky Ford Road (S.R. 2019),Newton,28658,Catawba,LCID,LF,InactiveClosed,-,35.60782,-81.30588,Closed
+-8804235.7063,4278514.3305,195,P0203,19A-LCID-,Womble-Arrington Landfill,Hwy 15/501 S.,Chapel Hill,27517,Chatham,LCID,LF,InactiveClosed,-,35.839173,-79.089795,Closed
+-8799929.4232,4247453.6341,196,P0204,19B-DEMO-,"Williamette Industries, Inc.",Corinth Road (S.R. 1916),Moncure,27559,Chatham,CD,LF,InactiveClosed,-,35.612657,-79.051111,Closed
+-8533397.723,4313749.0536,197,P0206,21A-DEMO-1982,Chowan Co. Demo Landfill,Wildcat Road (S.R. 1208),Edenton,27932,Chowan,CD,LF,InactiveClosed,-,36.095348,-76.656816,Closed
+-8555897.5071,4147287.9772,198,P0207,25A-DEMO-,Westminster Company,U.S. Hwy 101,Havelock,28532,Craven,CD,LF,InactiveClosed,-,34.877807,-76.858935,Closed
+-8559798.81,4153048.8478,199,P0208,25B-LCID-,Cherry Point LCID,Mockingbird Road,Cherry Point,28533,Craven,LCID,LF,Active,11/15/2020,34.920251,-76.893981,Closed
+-8565365.3411,4157143.4225,200,P0209,25C-DEMO-,Paul Belangia,Lewis Farm Road (S.R. 1105),Havelock,28560,Craven,CD,LF,InactiveClosed,-,34.950405,-76.943986,Closed
+-8555998.2513,4147300.5967,201,P0210,25D-LCID-,Point Properties,U.S. Hwy 101,Havelock,28532,Craven,LCID,LF,InactiveClosed,-,34.8779,-76.85984,Closed
+-8781664.3438,4161741.939,202,P0211,26H-DEMO-,"Fayetteville,  City of",Wastewater Treatment,Fayetteville,28301,Cumberland,CD,LF,InactiveClosed,-,34.984257,-78.887033,Closed
+-8802476.4131,4183440.3376,203,P0212,26G-LCID-1987,U.S. Army - Fort Bragg,Lamont Road,Fort Bragg,28310,Cumberland,LCID,LF,InactiveClosed,-,35.143801,-79.073991,Closed
+-8780180.9002,4167271.7228,204,P0213,26F-LCID-1986,Wilkes Road Site - Cumberland County,601 Wilkes Road,Fayetteville,28306,Cumberland,LCID,LF,InactiveClosed,-,35.024946,-78.873707,Closed
+-8769460.2767,4170059.1982,205,P0214,26E-DEMO-,Hayes Site,Wade-Stedman Road (S.R. 1826),Fayetteville,28312,Cumberland,CD,LF,InactiveClosed,-,35.045449,-78.777402,Closed
+-8781700.9679,4167780.8202,206,P0215,26D-DEMO-,Brunson Site,Gillespie Street,Fayetteville,28306,Cumberland,CD,LF,InactiveClosed,-,35.028691,-78.887362,Closed
+-8786495.6097,4179732.6221,207,P0216,26C-DEMO-,"Eagle Refuse Company, Inc.",Murchison Road,Fayetteville,28311,Cumberland,CD,LF,InactiveClosed,-,35.116561,-78.930433,Closed
+-8781014.0153,4169264.7447,208,P0217,26B-DEMO-,J.W. Pate,Gillespie Street,Cumberland,28306,Cumberland,CD,LF,InactiveClosed,-,35.039606,-78.881191,Closed
+-8793595.0102,4169341.0195,209,P0218,26A-DEMO-,Don Broadwell,U.S. Hwy 401 S.,Fayetteville,28304,Cumberland,CD,LF,InactiveClosed,-,35.040167,-78.994208,Closed
+-8424529.0421,4286676.6068,210,P0219,28A-DEMO-1981,Dare County Demo Landfill,Mashoes Road (S.R. 1113),Manteo,27954,Dare,CD,LF,InactiveClosed,-,35.898591,-75.678832,Closed
+-8963383.3937,4284085.4121,211,P0220,30A-DEMO-1989,Davie County Demo Landfill,360 Dalton Road,Mocksville,27028,Davie,CD,LF,InactiveClosed,-,35.879733,-80.519443,Closed
+-8697570.9287,4186199.1983,212,P0221,31A-DEMO-1983,"Calypso, Town of",Virginia Johnson Road (S.R. 1311),Calypso,28365,Duplin,CD,LF,InactiveClosed,-,35.164064,-78.131609,Closed
+-8779354.2417,4303705.5294,213,P0222,32B-LCID-1981,"Durham, City of",1833 Camden Avenue,Durham,27704,Durham,LCID,LF,InactiveClosed,-,36.022411,-78.866281,Closed
+-8788383.4769,4302841.6127,214,P0223,32C-DEMO-,N.C. Dept of Transportation,Durham Township,Durham,27705,Durham,CD,LF,InactiveClosed,-,36.016134,-78.947392,Closed
+-8765696.8986,4294029.3807,215,P0224,32D-LCID-,Currin Landfill,2710 Coley Road,Durham,27703,Durham,LCID,LF,InactiveClosed,11/3/2015,35.952078,-78.743595,Closed
+-8632315.2206,4290395.0561,216,P0225,33A-DEMO-,"Long Trailer Co., Inc.",Hwy 44 West,Tarboro,27886,Edgecombe,CD,LF,InactiveClosed,-,35.925645,-77.545407,Closed
+-8655099.76,4296059.4284,217,P0226,33B-DEMO-,"Clark-Langley, Inc.",Leggett Road (S.R. 1243),Rocky Mount,27801,Edgecombe,CD,LF,InactiveClosed,-,35.966839,-77.750084,Closed
+-8654921.3149,4296068.9187,218,P0227,33C-LCID-,Barnhill Contracting Company,Leggett Road (S.R. 1243),Tarboro,27801,Edgecombe,LCID,LF,InactiveClosed,-,35.966908,-77.748481,Closed
+-8943179.6854,4309263.2452,219,P0228,34A-DEMO-,R.J. Crutchfield,918 Hazelwood Drive,Winston-Salem,27104,Forsyth,CD,LF,InactiveClosed,-,36.06278,-80.33795,Closed
+-8930269.2961,4326814.0513,220,P0229,34B-DEMO-,Harold Fulp Rubble Site,Old Hollow Road,Stanleyville,27105,Forsyth,CD,LF,InactiveClosed,-,36.190126,-80.221974,Closed
+-8938927.9487,4300341.9132,221,P0230,34C-DEMO-,Clearence Speaks Rubble Site,4974 Beckel Road,Winston-Salem,27127,Forsyth,CD,LF,InactiveClosed,-,35.997969,-80.299756,Closed
+-8936631.9842,4334180.1881,222,P0231,34D-DEMO-,Hawks Landfill Site,NC Hwy 65,Rural Hall,27045,Forsyth,CD,LF,InactiveClosed,-,36.243512,-80.279131,Closed
+-8946526.3945,4300915.0111,223,P0232,34E-DEMO-,"A.G. Shore Company, Inc.",Hampton Industrial,Clemmons,27012,Forsyth,CD,LF,InactiveClosed,-,36.002134,-80.368014,Closed
+-8936733.9529,4329502.8138,224,P0233,34F-DEMO-,Bill Lackey Rubble Site,University Parkway,Winston-Salem,27105,Forsyth,CD,LF,InactiveClosed,-,36.209617,-80.280047,Closed
+-8918244.8987,4318041.4288,225,P0234,34G-DEMO-,R. Roberts & S. Dotson,527 Bluff School Road,Kernersville,27284,Forsyth,CD,LF,InactiveClosed,-,36.126499,-80.113957,Closed
+-8923768.0152,4318395.4939,226,P0235,34G1-DEMO-,Phillip A. Shelton,Sportsmans Drive,Walkertown,27101,Forsyth,CD,LF,InactiveClosed,-,36.129068,-80.163572,Closed
+-8914313.7622,4308979.4324,227,P0236,34I-DEMO-,Walter C. Schultz,Ogden School Road,Kernersville,27284,Forsyth,CD,LF,InactiveClosed,-,36.060719,-80.078643,Closed
+-8951447.1613,4325857.6748,228,P0237,34J-DEMO-,B.H. Whitman,4691 Vienna Dozier,Dozier,27040,Forsyth,CD,LF,InactiveClosed,-,36.183192,-80.412218,Closed
+-8930254.0453,4306530.2205,229,P0238,34K-DEMO-,Gertrude S. Hine,Gayland Park,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.042931,-80.221837,Closed
+-8930092.8547,4311463.7698,230,P0239,34L-DEMO-,Dunn - Foster & Spainhour,1519 Stadium Drive,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.078758,-80.220389,Closed
+-8945366.1115,4304396.7674,231,P0240,34N-DEMO-,Tom Hart,3160 Dunn Street,Winston-Salem,27103,Forsyth,CD,LF,InactiveClosed,-,36.027433,-80.357591,Closed
+-8912238.4329,4315767.7777,232,P0241,34O-DEMO-,M.R. Nash,Pineview Drive,Kernersville,27284,Forsyth,CD,LF,InactiveClosed,-,36.11,-80.06,Closed
+-8913351.6278,4315767.7777,233,P0242,34P-DEMO-,M.R. Nash,Pineview Drive,Kernersville,27284,Forsyth,CD,LF,InactiveClosed,-,36.11,-80.07,Closed
+-8928537.0535,4318658.3281,234,P0243,34Q-DEMO-,James Harris,3435 Carver School Road,Winston-Salem,27105,Forsyth,CD,LF,InactiveClosed,-,36.130975,-80.206413,Closed
+-8930140.1655,4302195.8878,235,P0244,34R-DEMO-,Danny Byrd (Fly Ash Fill),Beckerdite Stewart Road,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.011442,-80.220814,Closed
+-8941036.4512,4303766.0901,236,P0245,34S-DEMO-,Herman Knott,2804 Evans Road,Winston-Salem,27127,Forsyth,CD,LF,InactiveClosed,-,36.022851,-80.318697,Closed
+-8929971.1825,4311820.9255,237,P0246,34U-DEMO-,Terry Cornett,1400 Block of Stadium,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.081351,-80.219296,Closed
+-9000040.6794,4166512.538,238,P0958,6019-MSWLF-2000,Mecklenburg County Landfill,17131 Lancaster Highway,Charlotte,28277,Mecklenburg,MSW,LF,Active,4/11/2060,35.019361,-80.848741,Open
+-9183459.1327,4212267.4342,239,P0967,4501-CDLF-1998,Henderson County Solid Waste,800 Stoney Mountain Road,Hendersonville,28791,Henderson,CD,LF,Post-Closure,-,35.355278,-82.496417,Open
+-8888540.7397,4299117.5251,240,P0970,4117-CDLF-2008,A-1 Sandrock C&D Landfill,2091 Bishop Road,Greensboro,27406,Guilford,CD,LF,Active,4/17/2069,35.98907,-79.84712,Open
+-8888540.7397,4299117.5251,241,P0970,41881A-LCID-,A-1 Sandrock C&D Landfill,2091 Bishop Road,Greensboro,27406,Guilford,LCID,LF,InactiveClosed,-,35.98907,-79.84712,Open
+-8597232.2152,4188079.9962,242,P0972,2509-MSWLF-1999,CRSWMA - Long Term Regional Landfill,7400 Old U.S. Highway 70 W.,New Bern,28562,Craven,MSW,LF,Active,8/25/2059,35.177875,-77.230251,Open
+-8923738.1816,4164881.5196,243,P0976,0403-MSWLF-2000,Chambers Development MSWLF (Anson Landfill),375 Dozer Road,Polkton,28135,Anson,MSW,LF,InactiveClosed,-,35.007361,-80.163304,Open
+-8923738.1816,4164881.5196,244,P0976,0403-MSWLF-2010,Chambers Development MSWLF (Anson Landfill),375 Dozer Road,Polkton,28135,Anson,MSW,LF,Active,12/12/2060,35.007361,-80.163304,Open
+-8774406.9809,4236051.5981,245,P0977,43D-LCID-,Bryant Grading and LCID Landfill,376 Spence Mill Road,Fuquay-Varina,27526,Harnett,LCID,LF,Active,10/8/2023,35.529344,-78.821839,Open
+-8802476.4131,4183440.3376,246,P0982,2602-MSWLF-,Fort Bragg Sanitary Landfill,Lamont Road,Fort Bragg,28310,Cumberland,MSW,LF,InactiveClosed,-,35.143801,-79.073991,Closed
+-8522319.7638,4350985.3772,247,P0983,7202-MSWLF-,Perquimans-Chowan-Gates Regional Landfill,759 Perry's Bridge Road,Belvidere,27919,Perquimans,MSW,LF,Post-Closure,-,36.365171,-76.557301,Closed
+-8732159.0077,4262508.3776,248,P0984,9226-CDLF-2001,"Shotwell Landfill, Inc.",4724 Smithfield Road,Wendell,27591,Wake,CD,LF,InactiveClosed,7/25/2021,35.722527,-78.442319,Open
+-8732159.0077,4262508.3776,249,P0984,9226-CDLF-2020,"Shotwell Landfill, Inc.",4724 Smithfield Road,Wendell,27591,Wake,CD,LF,Active,1/10/2061,35.722527,-78.442319,Open
+-9036215.0611,4216727.9153,250,P0985,3606-CDLF-1995,Gaston County C&D Landfill,3155 Philadelphia Church Road,Dallas,28034,Gaston,CD,LF*,Active,10/18/2058,35.387951,-81.173701,Open
+-8631573.1649,4136404.4101,251,P0987,6705-LCID-1991,Onslow County Landfill LCID Unit,415 Meadowview Road,Jacksonville,28540,Onslow,LCID,LF,Active,12/23/2013,34.797561,-77.538741,Closed
+-8981566.0967,4210994.8632,252,P0993,13F-LCID-,Morehead LCID Landfill,5001 Morehead Road,Concord,28027,Cabarrus,LCID,LF,InactiveClosed,-,35.345954,-80.682781,Open
+-8981566.0967,4210994.8632,253,P0993,13F-LCID-2013,Morehead LCID Landfill,5001 Morehead Road,Concord,28027,Cabarrus,LCID,LF,Active,6/11/2019,35.345954,-80.682781,Open
+-8991802.9258,4341468.7624,254,P0995,8603-CDLF-2000,Surry County Elkin C&D Landfill,Elkin Landfill Road,Elkin,28621,Surry,CD,LF,Post-Closure,-,36.2963,-80.77474,Open
+-8580940.6077,4123564.8923,255,P1015,1605-LCID-,"W.A. Page and Sons, Inc.",308 VFW Road,Swansboro,28584,Carteret,LCID,LF,InactiveClosed,-,34.702793,-77.083901,Closed
+-8591868.8421,4248761.9323,256,P1016,7407-CDLF-2001,"C & D Landfill, Inc.(Phase I)",802 Recycling Lane,Greenville,27834,Pitt,CD,LF,InactivePermitted,7/21/2014,35.622211,-77.182071,Open
+-8655001.4649,4298720.0655,257,P1017,33F-LCID-,Barnhill Contracting Company LCID Landfill,10826 Hwy 97 E.,Rocky Mount,27801,Edgecombe,LCID,LF,Active,7/27/2015,35.986181,-77.749201,Open
+-8882172.263,4261961.8404,258,P1019,7606-CDLF-2001,Gold Hill Road C&D Debris Landfill,385 Gold Hill Road,Asheboro,27203,Randolph,CD,LF,Active,10/19/2061,35.718541,-79.789911,Open
+-8812115.5678,4206290.7376,259,P1021,43C-LCID-,"Blaylock Grading Company, LLP",1025 Claude White Road,Sanford,27332,Harnett,LCID,LF,Active,7/26/2018,35.311478,-79.160581,Open
+-8766546.9343,4068253.5063,260,P1027,2401-LCID-2000,Columbus County Landfill,107 Landfill Road,Whiteville,28472,Columbus,LCID,LF,Active,11/17/2015,34.293301,-78.751231,Open
+-9180479.7779,4210159.9378,261,P1029,4502-INDUS-,Kimberly Clark Industrial Waste Landfill,32 Smythe Avenue,Hendersonville,28792,Henderson,Indus,LF,Post-Closure,-,35.339836,-82.469653,Closed
+-8783048.1563,4246195.8762,262,P1031,9228-CDLF-2001,Red Rock Disposal C&D Landfill,7130 New Landfill Drive,Holly Springs,27540,Wake,CD,LF,Active,11/19/2061,35.603471,-78.899464,Open
+-8782608.8896,4374028.0943,263,P1037,73D-LCID-2002,Duke Energy Progress - Roxboro,1700 Dunnaway Road,Semora,27343,Person,LCID,LF,Active,8/31/2020,36.531677,-78.895518,Open
+-8680735.1916,4144854.9834,264,P1038,31B-LCID-2000,Duplin County LCID Landfill,325 Landfill Road,Rose Hill,28458,Duplin,LCID,LF,Active,12/20/2024,34.859875,-77.980371,Open
+-8937021.6025,4326529.2259,265,P1040,3402-MSWLF-1997,Hanes Mill Road Landfill,325 West Hanes Mill Road,Winston-Salem,27105,Forsyth,MSW,LF,Active,3/6/2030,36.188061,-80.282631,Open
+-8770268.9014,4200182.0246,266,P1041,43E-LCID-,McArtan Mine LCID Landfill,Josey Williams Road (SR 2027),Bunnlevel,28323,Harnett,LCID,LF,Active,2/19/2020,35.266686,-78.784666,Open
+-8727443.4028,4256493.9975,267,P1043,51E-LCID-,"The Stump Dump, Inc.",611 Loop Road,Clayton,27520,Johnston,LCID,LF,InactiveClosed,-,35.678652,-78.399958,Closed
+-8976597.9078,4203730.8911,268,P1046,1307-LCID-2009,Tarheel Bark Company - A Division of Garick LLC,8829 Rocky River Road,Harrisburg,28075,Cabarrus,LCID,LF,Active,3/25/2019,35.292711,-80.638151,Open
+-8575714.3802,4186598.1824,269,P1049,25H-LCID-,Leslie E. Parson LCID LF,Hwy 17,Bridgeton,28560,Craven,LCID,LF,InactiveClosed,-,35.166994,-77.036953,Closed
+-8925098.0605,4278832.6405,270,P1051,2906-CDLF-,Davidson County CDLF,220 Davidson County Landfill Road,Lexington,27292,Davidson,CD,LF,Post-Closure,-,35.841491,-80.17552,Open
+-8747904.3705,4288193.4387,271,P1054,9209-CDLF-,Wake County CDLF,9025 Deponies Drive,Raleigh,27614,Wake,CD,LF,Post-Closure,-,35.909628,-78.583762,Closed
+-9148863.3727,4207553.7612,272,P1057,7502-CDLF-2002,Polk County C&D Landfill,322 Landfill Road,Millspring,28756,Polk,CD,LF,Post-Closure,-,35.320736,-82.185638,Open
+-8900726.9957,4336115.485,273,P1059,79K-LCID-,Thomas Stanley Grading and Hauling LCID,NC Hwy 68 & Lauren Road (S.R. 1103),Stokesdale,27357,Rockingham,LCID,LF,InactiveClosed,-,36.257532,-79.956591,Closed
+-8738767.9346,4260729.5584,274,P1061,9231-CDLF-,Brownfield Road C&D Landfill,2600 Brownfield Road,Raleigh,27610,Wake,CD,LF,Post-Closure,1/28/2016,35.709553,-78.501688,Open
+-8738767.9346,4260729.5584,275,P1061,9231-CDLF-2012,Brownfield Road C&D Landfill,2600 Brownfield Road,Raleigh,27610,Wake,CD,LF,Active,10/1/2063,35.709553,-78.501688,Open
+-8777395.0186,4257409.7517,276,P1062,9230-CDLF-2014,"Greenway Waste Solutions of Apex, LLC",5940 Old Smithfield Road,Apex,27502,Wake,CD,LF,Active,12/10/2062,35.685334,-78.848681,Open
+-8655192.9344,4299922.532,277,P1065,33G-LCID-,"Rocky Mount, City of LCID Landfill",3873 Old Battleboro Road,Rocky Mount,27801,Edgecombe,LCID,LF,Active,11/4/2015,35.994921,-77.750921,Closed
+-8896846.3982,4293941.784,278,P1067,4116-CDLF-,High Point C&D Debris Landfill,5830 Riverdale Drive,Jamestown,27282,Guilford,CD,LF,Post-Closure,-,35.951441,-79.921731,Open
+-8896846.3982,4293941.784,279,P1067,4116-CDLF-2012,High Point C&D Debris Landfill,5830 Riverdale Drive,Jamestown,27282,Guilford,CD,LF,Active,2/10/2064,35.951441,-79.921731,Open
+-8861602.6475,4320555.9689,280,P1068,41Q-LCID-,High Rock LCID Landfill,3802 High Rock Road,Gibsonville,27249,Guilford,LCID,LF,InactiveClosed,-,36.144742,-79.605131,Open
+-8895265.6615,4331716.8449,281,P1071,41I-LCID-,"Winfree Road Landfill, Inc.",7965 Winfree Road,Summerfield,27358,Guilford,LCID,LF,Active,5/9/2021,36.225663,-79.907531,Open
+-9051260.8922,4245193.5797,282,P1074,1803-CDLF-,Blackburn Resource Recovery C&D Facility,3993 Rocky Ford Road,Newton,28658,Catawba,CD,LF,Active,2/22/2062,35.59615,-81.30886,Open
+-8888813.5838,4300388.6955,283,P1087,41R-LCID-2011,Viewmont Sandrock Mine and Landfill,4048 Viewmont Road,Greensboro,27406,Guilford,LCID,LF,Active,8/1/2022,35.998309,-79.849571,Open
+-8956341.3227,4314670.4666,284,P1096,34BB-LCID-,Myers LCID Landfill,7775 Shallowford Road,Lewisville,27023,Forsyth,LCID,LF,InactiveClosed,-,36.102036,-80.456183,Closed
+-8874072.1002,4316534.3357,285,P1097,41S-LCID-,"D & D Grading, Inc. ",1411 Rankin Mill Road,McCleansville,27301,Guilford,LCID,LF,Active,4/19/2021,36.115563,-79.717146,Open
+-9292736.9127,4221990.3099,286,P1098,87A-LCID-,Swain County LCID,1422 US Hwy 19 South,Bryson City,28713,Swain,LCID,LF,Active,12/2/2021,35.426481,-83.478076,Open
+-8961096.6687,4171771.4842,287,P1100,9013-LCID-,"Griffin Farm LCID Landfill, Inc.",4242 Morgan Mill Road,Monroe,28110,Union,LCID,LF,Active,6/10/2020,35.058041,-80.498901,Open
+-8967732.0896,4267161.7696,288,P1101,8003-CDLF-,Rowan County C&D Unit,789 Campbell Road,Woodleaf,27054,Rowan,CD,LF,Post-Closure,-,35.756457,-80.558508,Closed
+-9240244.7634,4254143.9765,289,P1102,4407-CDLF-,Haywood County C&D Unit,3878 Fines Creek Road,Waynesville,28785,Haywood,CD,LF,InactiveClosed,-,35.661502,-83.006531,Open
+-8650659.7821,4204024.9425,290,P1103,5409-MSWLF-,Lenoir County Landfill,2949 Hodges Farm Road,LaGrange,28551,Lenoir,MSW,LF,Active,2/18/2020,35.294867,-77.710199,Open
+-9157560.8758,4247996.1604,291,P1107,56A-LCID-,Ridgecrest Conference Center LCID,One Ridgecrest Drive,Ridgecrest,28770,McDowell,LCID,LF,InactiveClosed,5/3/2009,35.616619,-82.263769,Closed
+-8666997.2532,4261790.4533,292,P1109,9809-CDLF-,Wilson County Westside C & D Landfill,2400 NC Hwy 42 East,Wilson,27893,Wilson,CD,LF,Active,1/25/2021,35.717291,-77.856961,Open
+-9122995.6173,4211149.764,293,P1110,8105-MSWLF-,Rutherford County MSW Landfill,656 Laurel Hill Drive,Rutherfordton,28139,Rutherford,MSW,LF,Active,-,35.347089,-81.953264,Closed
+-8884495.5007,4330472.2072,294,P1115,419018-LCID-,James W. Hilton,7835 Sutter Road,Greensboro,27455,Guilford,LCID,LF,InactiveClosed,-,36.216643,-79.810781,Closed
+-8896492.4023,4324622.2621,295,P1116,418815-LCID-,Bobby S. Sizemore Demolition Landfill,5148 Bunch Road,Summerfield,27358,Guilford,LCID,LF,InactiveClosed,-,36.174234,-79.918551,Closed
+-8870280.0018,4322800.8446,296,P1117,418814-LCID-,Billy J. Coley,4925 O'Ferrel Farm Road,Mcleansville,27301,Guilford,LCID,LF,InactiveClosed,-,36.161025,-79.683081,Closed
+-8554564.5675,4146900.4428,297,P1126,25I-LCID-,Cieszko LCID,1090 NC Hwy 101,Havelock,28532,Craven,LCID,LF,Active,5/8/2021,34.874951,-76.846961,Closed
+-8912950.989,4337588.4482,298,P1131,8504-INDUS-2007,"Duke Energy Carolinas-Belews Creek, Craig Road Landfill",3191 Pine Hall Road,Walnut Cove,27009,Stokes,Indus,LF,Active,11/5/2012,36.268201,-80.066401,Open
+-8911815.5302,4338403.0893,299,P1132,8505-INDUS-2008,"Duke Energy Carolinas-Belews Creek, Craig Road Landfill, FGD",3195 Pine Hall Road,Belews Creek,27009,Stokes,Indus,LF,Active,1/24/2013,36.274101,-80.056201,Open
+-9032184.405,4205316.6247,300,P1137,3603-MSWLF-,Gaston County - Auten Road,Monterey Park Drive,Gastonia,28054,Gaston,MSW,LF,Post-Closure,,35.304337,-81.137493,Closed
+-9090728.7724,4268664.2252,301,P1138,1201-MSWLF-,Burke County MSWLF (Kirsey Drive),Gravel Pir Road,Morganton,28655,Burke,MSW,LF,Post-Closure,,35.767409,-81.663406,Closed
+-9049207.2702,4209565.2387,302,P1139,3602-MSWLF-,Gaston County MSWLF - Biggerstaff,Biggerstaff Landfill Road,Bessemer City,28016,Gaston,MSW,LF,Post-Closure,,35.335478,-81.290412,Closed
+-9011250.5521,4220041.4419,303,P1141,6004-MSWLF-,"Duke Energy Carolinas-McGuire Nuclear Station MSWLF
+Duke Energy Carolinas-McGuire Nuclear Station MSWLF
+Duke Energy Carolinas-McGuire Nuclear Station MSWLF
+Duke Energy Carolinas-McGuire Nuclear Station MSWLF
+",NC Hwy 73,Huntersville,28078,Mecklenburg,MSW,LF,Post-Closure,,35.412214,-80.949441,Closed
+-8887950.8577,4351391.8145,304,P1142,7901-MSWLF-,Rockingham County MSWLF (Area 5),Shuff Road,Madison,27025,Rockingham,MSW,LF,Post-Closure,,36.368111,-79.841821,Closed
+-9021272.6459,4206708.5917,305,P1143,3601-MSWLF-,Gaston County MSWLF - Cramerton,Noles Drive,Mount Holly,28120,Gaston,MSW,LF,Post-Closure,,35.314541,-81.039471,Closed
+-9051386.5719,4230088.9064,306,P1144,5502-MSWLF-,Lincoln County MSWLF - Owls Den,Owls Den Road,Lincolnton,28092,Lincoln,MSW,LF,Post-Closure,,35.485741,-81.309989,Closed
+-8803362.4049,4296027.9316,307,P1145,6801-MSWLF-1993,Orange County MSWLF,Eubanks Road,Chapel Hill,27516,Orange,MSW,LF,Post-Closure,,35.96661,-79.08195,Closed
+-8620102.8045,4245496.2716,308,P1146,7401-MSWLF-,Pitt County MSWLF (closed 0500n),Landfill Road,Greenville,27834,Pitt,MSW,LF,Post-Closure,,35.598361,-77.435701,Closed
+-8733293.576,4159344.6376,309,P1147,8201-MSWLF-,Sampson County Landfill,7434 Roseboro Hwy,Roseboro,28382,Sampson,MSW,LF,Post-Closure,,34.966611,-78.452511,Closed
+-8546801.1462,4279294.0554,310,P1148,9401-INDUS-,Weyerhaeuser,Sandhill Road,Plymouth,27962,Washington,Indus,LF,InactiveClosed,,35.844851,-76.777221,Closed
+-8976144.8375,4326940.2596,311,P1149,9901-MSWLF-,Yadkin County MSWLF (31.8),Sizemore Road,Yadkinville,27055,Yadkin,MSW,LF,Post-Closure,,36.191041,-80.634081,Closed
+-8777728.1979,4255999.5604,312,P1150,9222-MSWLF-2008,Wake County South Wake MSWLF,6300 Smithfield Road,Apex,27520,Wake,MSW,LF,Active,1/28/2068,35.675044,-78.851674,Open
+-9033445.5435,4368629.5032,313,P0005,0302-MSWLF-1981,Alleghany County Landfill,Osborne Road (S.R. 1138),Sparta,28675,Alleghany,MSW,LF,Post-Closure,-,36.492699,-81.148822,Closed
+-9013183.0585,4245816.6329,314,P1151,1809-INDUS-2006,Duke Energy Carolinas-Marshall FGD,8320 East NC Highway 150,Terrell,28682,Catawba,Indus,LF,Post-Closure,,35.600701,-80.966801,Open
+-8730215.5921,4234219.7665,315,P1165,5103-CDLF-,Johnston County C & D Landfill,680 County Home Road,Smithfield,27577,Johnston,CD,LF,Active,12/22/2058,35.515951,-78.424861,Open
+-8963985.7435,4228216.3787,316,P1166,1302-MSWLF-,Cabarrus County Landfill Units 2 & 3,4441 Irish Potato Road,Concord,28025,Cabarrus,MSW,LF,Post-Closure,,35.472043,-80.524854,Closed
+-8730526.1734,4234247.1193,317,P1167,5103-MSWLF-,Johnston County Landfill,680 County Home Road,Smithfield,27577,Johnston,MSW,LF,Active,8/6/2057,35.516151,-78.427651,Open
+-8915517.6825,4189914.3917,318,P1169,8401-MSWLF-,"Albemarle, City of Landfill",40592B Stony Gap Road,Albemarle,28001,Stanly,MSW,LF,Post-Closure,,35.191343,-80.089458,Closed
+-8803988.0205,4296250.7491,319,P1170,6804-CDLF-2005,Orange County CDLF,1514 Eubanks Road,Chapel Hill,27516,Orange,CD,LF,Active,6/1/2066,35.96823,-79.08757,Open
+-9017769.4215,4188778.1421,320,P1172,3612-INDUS-2008,Duke Energy Carolinas  - Allen ,253 Plant Allen Road,Belmont,28012,Gaston,Indus,LF,Active,12/9/2069,35.183001,-81.008001,Open
+-8826968.5935,4291837.7511,321,P0563,0104-CDLF-1993,Alamance County Austin Quarter Road SW Mgmt. Facility,2701 Austin Quarter Road,Graham,27253,Alamance,CD,LF,Active,12/16/2020,35.936139,-79.294008,Open
+-8942867.5455,4321063.4137,322,P0250,34Z-DEMO-,C.T. Long,4379 Shattalon Drive,Winston-Salem,27106,Forsyth,CD,LF,InactiveClosed,-,36.148423,-80.335146,Closed
+-9012425.9746,4244351.6722,323,P1177,1812-INDUS-2008,"Duke Energy Carolinas-Marshall, Industrial
+Duke Energy Carolinas-Marshall, Industrial
+",8320 East NC Hwy 150,Terrell,28682,Catawba,Indus,LF,Active,3/7/2071,35.59,-80.96,Open
+-9102160.3935,4192115.5772,324,P1178,8106-INDUS-2009,"Duke Energy Carolinas - Rogers
+Duke Energy Carolinas - Rogers
+",573 Duke Power Road,Mooresboro,28114,Rutherford,Indus,LF,Active,9/7/2070,35.207501,-81.766098,Open
+-8731857.7772,4272661.0346,325,P1187,9202-MSWLF-1981,Wake County Knightdale Landfill,712 Three Sisters Rd,Knightdale,27545,Wake,MSW,LF,Post-Closure,,35.796536,-78.439613,Closed
+-8591868.8421,4248761.9323,326,P1193,7407-CDLF-2009,C & D Landfill Inc,802 Recycling Lane,Greenville,27834,Pitt,CD,LF,Active,7/21/2019,35.622211,-77.182071,Open
+-8755390.7175,4214006.3333,327,P1196,4302-LCID-,Harnett County Dunn-Erwin LCID Landfill,449 Daniels Rd,Dunn,27546,Harnett,LCID,LF,Active,5/26/2020,35.368017,-78.651013,Open
+-8797594.0516,4273371.439,328,P1198,1909-LCID-2010,Stone Landfill LCID,52 Rock Hill Drive,Chapel Hill,27517,Chatham,LCID,LF,Active,5/28/2015,35.801712,-79.030132,Open
+-8925800.4865,4279824.7068,329,P1203,2906-MSWLF-2008,Davidson County MSW Lined Landfill,220 Davidson County Landfill Road,Lexington,27292,Davidson,MSW,LF,Active,12/8/2068,35.848715,-80.18183,Open
+-8786358.464,4180091.9059,330,P1205,2612-LCID-2008,Highland LCID Landfill,6020 Murchison Road,Fayetteville,28311,Cumberland,LCID,LF,Active,10/2/2020,35.119201,-78.929201,Open
+-8696772.8793,4202336.9812,331,P1206,43F-LCID-2010,Weeks Sandpit #2 LCID,20796 Hwy 24-27,Cameron,28326,Harnett,LCID,LF,Active,9/17/2020,35.28249,-78.12444,Open
+-8739252.397,4281823.8081,332,P1218,92V-LCID-,Carolina Tree Debris,1417 Old Watkins Rd,Raleigh,27616,Wake,LCID,LF,Active,5/26/2022,35.86327,-78.50604,Open
+-8971756.5119,4369787.3023,333,P1219,8601-DEMO-,"Duke Energy Carolinas-Belews Creek FGD Residue Landfill
+Duke Energy Carolinas-Belews Creek FGD Residue Landfill
+",City View Drive,Mount Airy,27030,Surry,MSW,LF,InactiveClosed,,36.50106,-80.59466,Closed
+-8601325.2102,4132016.4686,334,P1234,67F-LCID-2012,Rocky Run Inert Debris,3121 New Bern Highway,Jacksonville,28546,Onslow,LCID,LF,Active,3/12/2017,34.765186,-77.267019,Open
+-8785690.4358,4374239.0904,335,P1238,7305-INDUS-2012,Duke Energy Progress - Mayo ,10660 Boston Road,Roxboro,27574,Person,Indus,LF,Active,7/10/2064,36.5332,-78.9232,Open
+-8780736.7184,4160511.4336,336,P1240,26M-LCID-2012,"Autry Grading, Inc., LCID Landfill",5124 US Highway 301 South,Hope Mills,28348,Cumberland,LCID,LF,Active,1/17/2023,34.9752,-78.8787,Open
+-8598926.3865,4154433.589,337,P1246,5203-CDLF-2013,Maysville C & D,11710 Highway 17,Maysville,28555,Jones,CD,LF,Active,4/6/2075,34.93045,-77.24547,Open
+-8925794.9205,4297696.423,338,P1252,2909-LCID-2013,"Veach Landfill, L.L.C.",4261 Old Thomasville Road,Winston-Salem,27107,Davidson,LCID,LF,Active,6/28/2023,35.97874,-80.18178,Open
+-8879206.7117,4266708.275,339,P1261,7607-MSWLF-2015,Great Oak Landfill,3597 Old Cedar Falls,Randleman,27317,Randolph,MSW,LF,Active,12/12/2076,35.753151,-79.763271,Open
+-8589796.0732,4185499.9896,340,P1263,2513-LCID-2013,Craven LCID Landfill,356 Sanders Lane,New  Bern,28562,Craven,LCID,LF,Active,11/6/2023,35.158929,-77.163451,Open
+-8834210.5943,4320421.8398,341,P1271,0107-LCID-2014,Key Properties LCID Landfill,2380 Sandy Cross Road,Burlington,27217,Alamance,LCID,LF,Active,8/10/2022,36.143769,-79.359064,Open
+-8680983.3227,4068051.2595,342,P1297,6512-INDUS-2016,Duke Energy Progress - Sutton Energy Complex,801 Sutton Steam Plant Road,Wilmington,28401,New Hanover,Indus,LF,Active,9/21/2026,34.2918,-77.9826,Open
+-8873888.8683,4368920.4298,343,P1298,7906-INDUS-2016,Duke Energy Carolinas-Dan River ,900 South Edgewood Road,Eden,27288,Rockingham,Indus,LF,Active,,36.4948,-79.7155,Closed
+-8652641.3804,4209500.012,344,P1303,5410-LCID-2016,Everett's Land Clearing and Inert Debris Pit,4010 Aldridge Store Road,Kinston,28504,Lenoir,LCID,LF,Active,11/29/2021,35.335,-77.728,Open
+-9188533.4091,4228073.8128,345,P1314,1119-INDUS-2020,"Duke Energy Progress - Asheville
+",46 Duke Energy Lane ,Arden,28704,Buncombe,Indus,LF,Active,2/7/2080,35.471,-82.542,Open
+-8683183.9977,4307971.895,346,P1343,6403-LCID-2020,Nash County LCID,3057 Duke Road,Nashville,27856,Nash,CD,LF,Active,,36.053402,-78.002369,Open
+8813936.6434,4168071.6076,347,P1346,4703-LCID-2020,401 Sand Company LCID Site,3169 Doc Brown Road,Raeford,28376,Hoke,LCID,LF,Active,9/3/2025,35.03083,-79.17694,Open
+-8930478.4654,4326756.258,348,P0251,34AA-DEMO-,Dennis Hix,1312 Old Hollow Road,Winston-Salem,27105,Forsyth,CD,LF,InactiveClosed,-,36.189707,-80.223853,Closed
+-8941036.8965,4303759.6211,349,P0252,34BB-DEMO-,Susan Cason,2081 Evans Road,Winston-Salem,27127,Forsyth,CD,LF,InactiveClosed,-,36.022804,-80.318701,Closed
+-8928939.2508,4312037.7316,350,P0259,34II-DEMO-,Alvin Oliver,1540 East Sedgfield Drive,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.082925,-80.210026,Closed
+-8914464.8227,4304750.1113,351,P0260,34JJ-DEMO-,Richard Idol,Idlewild Road,Kernersville,27284,Forsyth,CD,LF,InactiveClosed,-,36.03,-80.08,Closed
+-8929534.2535,4321938.5741,352,P0261,34KK-DEMO-,Charlie Brown,1549 Mt. Pleasant,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.154771,-80.215371,Closed
+-8928736.7607,4311212.8175,353,P0262,34LL-DEMO-,Richard Brown,1529 Pleasant Street,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.076936,-80.208207,Closed
+-8928736.7607,4311212.8175,354,P0263,34MM-DEMO-,Streeter McCoy,1535 Pleasant Street,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.076936,-80.208207,Closed
+-8941056.2661,4313864.6392,355,P0264,34OO-DEMO-,Gordon Manor Development,Verita Court,Winston-Salem,27104,Forsyth,CD,LF,InactiveClosed,-,36.096187,-80.318875,Closed
+-8947853.7682,4310804.5847,356,P0265,34PP-DEMO-,John S. Wooten,530 Marty Lane,Clemmons,27012,Forsyth,CD,LF,InactiveClosed,-,36.073972,-80.379938,Closed
+-8928736.7607,4311212.8175,357,P0266,34QQ-DEMO-,Frank C. Scriven,1523 Pleasant Street,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.076936,-80.208207,Closed
+-8921241.1741,4313865.6036,358,P0267,34RR-DEMO-,Francis L. Manuel,311 Sedge Garden Road,Kernersville,27284,Forsyth,CD,LF,InactiveClosed,-,36.096194,-80.140873,Closed
+-8950957.4669,4316944.3005,359,P0268,34TT-DEMO-,James Hamby,Lewisville-Vienna Road,Lewisville,27023,Forsyth,CD,LF,InactiveClosed,-,36.118538,-80.407819,Closed
+-8931569.6191,4307655.484,360,P0269,34UU-DEMO-,Douglas Battery,Starlight Drive,Winston-Salem,27107,Forsyth,CD,LF,InactiveClosed,-,36.051104,-80.233655,Closed
+-8918629.7302,4331770.9388,361,P0270,34VV-DEMO-,Howard M. Taylor,6304 Pine Hall Road,Walnut Cove,27052,Forsyth,CD,LF,InactiveClosed,-,36.226055,-80.117414,Closed
+-8920689.0294,4316802.2235,362,P0272,34XX-DEMO-,Robert M. Russell,Gerry Drive,Kernersville,27284,Forsyth,CD,LF,InactiveClosed,-,36.117507,-80.135913,Closed
+-8931040.9628,4321427.7796,363,P0274,34ZZ-DEMO-,Bob Chambers,Grove Avenue,Forsyth,27105,Forsyth,CD,LF,InactiveClosed,-,36.151066,-80.228906,Closed
+-8711008.1932,4313531.8,364,P0275,35A-DEMO-,Louisburg Lodge #2256,Moose Loop Road (S.R. 1491),Louisburg,27549,Franklin,CD,LF,InactiveClosed,-,36.093771,-78.252318,Closed
+-8901055.8335,4315132.9936,365,P0276,41A-DEMO-,G.W. Emory,N. Regional Road,Greensboro,27409,Guilford,CD,LF,InactiveClosed,-,36.105393,-79.959545,Closed
+-8889778.7238,4301427.8666,366,P0277,41B-DEMO-,David H. Griffin,Wiley Davis Road,Greensboro,27407,Guilford,CD,LF,Post-Closure,-,36.005861,-79.858241,Closed
+-8767370.2532,4219165.8135,367,P0278,43A-DEMO-,Campbell University,U.S. Hwy 421,Buies Creek,27506,Harnett,CD,LF,InactiveClosed,-,35.405803,-78.758627,Closed
+-8494948.5274,4217612.7723,368,P0279,48A-DEMO-,Hyde County Demo Landfill,Credle Road (S.R. 1127),Swan Quarter,27885,Hyde,CD,LF,InactiveClosed,-,35.394431,-76.311421,Closed
+-8513748.497,4243995.4895,369,P0280,48B-DEMO-,Hyde County Demo Landfill,Hwy 45  (Ponzer Road),Ponzer,27875,Hyde,CD,LF,InactiveClosed,-,35.587398,-76.480304,Closed
+-8721921.1768,4233958.0036,370,P0281,51A-DEMO-,T.W. Shirley,Hwy 70,Smithfield,27577,Johnston,CD,LF,InactiveClosed,-,35.514037,-78.350351,Closed
+-8721859.9511,4233926.8222,371,P0282,51B-DEMO-,Sherri Blackmon,U.S. Highway 70 Bus.,Smithfield,27577,Johnston,CD,LF,InactiveClosed,-,35.513809,-78.349801,Closed
+-8722030.0473,4233820.9703,372,P0283,51C-DEMO-,Jimmy Flowers,U.S. Highway 70 W.,Smithfield,27577,Johnston,CD,LF,InactiveClosed,-,35.513035,-78.351329,Closed
+-8722481.7817,4233968.1239,373,P0284,51D-DEMO-,Wallace Demo Landfill,U.S. Highway 70,Smithfield,27577,Johnston,CD,LF,InactiveClosed,-,35.514111,-78.355387,Closed
+-8635389.9763,4197307.7671,374,P0285,54A-DEMO-1981,Duke Energy Carolinas - Old Plank Road,S.E. of Kinston,Kinston,28501,Lenoir,CD,LF,InactiveClosed,-,35.245602,-77.573028,Closed
+-8802915.6798,4296956.5056,375,P0569,6801-CDLF-1993,Orange County C&D Landfill,1514 Eubanks Road,Chapel Hill,27516,Orange,CD,LF,Post-Closure,-,35.973361,-79.077937,Open
+-9000848.6363,4169824.2418,376,P0287,60AF-LCID-,Big Pineville AME Zion Church,Providence Road,Charlotte,28277,Mecklenburg,LCID,LF,InactiveClosed,-,35.043721,-80.855999,Closed
+-9016397.1861,4194910.8068,377,P0288,60AH-LCID-,Duke Energy Carolinas - Training Center,5001 Amos Smith Road,Pineville,28214,Mecklenburg,LCID,LF,InactiveClosed,-,35.228015,-80.995674,Open
+-8996453.0748,4217690.0641,378,P0289,60AL-DEMO-1988,North Mecklenburg,Holbrook Road,Huntersville,28078,Mecklenburg,CD,LF,InactiveClosed,-,35.394997,-80.816513,Closed
+-9007369.5094,4207227.8278,379,P0290,60AM-LCID-,"Ronald J. Brewer Grading, Inc.",3015 Kelly Road,Charlotte,28216,Mecklenburg,LCID,LF,Active,1/16/2020,35.318347,-80.914577,Open
+-9010778.3348,4178103.1984,380,P0291,60A-LCID-,Carowinds,Catawba Service Road,Charlotte,28273,Mecklenburg,LCID,LF,InactiveClosed,-,35.104587,-80.945199,Closed
+-8979529.0613,4191838.4637,381,P0292,60B-DEMO-,Don Misenheimer Rubble Site,10700 Albemarle Road,Charlotte,28227,Mecklenburg,CD,LF,InactiveClosed,-,35.205467,-80.664482,Closed
+-9011878.1714,4187156.5119,382,P0293,60C-LCID-,Don R. Robertson Demo Landfill,Shopton Road,Charlotte,28217,Mecklenburg,LCID,LF,InactiveClosed,-,35.171094,-80.955079,Closed
+-9007153.6609,4206941.4673,383,P0294,60D-DEMO-,James Bailey,Kelly Road,Charlotte,28216,Mecklenburg,CD,LF,InactiveClosed,-,35.316248,-80.912638,Closed
+-9007379.1942,4207238.8786,384,P0295,60E-LCID-,Terry Love,Kelly Road,Charlotte,28216,Mecklenburg,LCID,LF,InactiveClosed,-,35.318428,-80.914664,Closed
+-9010774.3273,4178261.177,385,P0296,60F-LCID-,Carowinds,Catawba Service Road,Pineville,28273,Mecklenburg,LCID,LF,InactiveClosed,-,35.105748,-80.945163,Closed
+-9017789.5703,4173490.5629,386,P0298,60H-LCID-,Thomas Road Demo Landfill,Thomas Road,Charlotte,28278,Mecklenburg,LCID,LF,InactiveClosed,-,35.070681,-81.008182,Closed
+-8988634.1051,4192871.2033,387,P0299,60I-LCID-,F.T. Williams,Palmer Drive,Charlotte,28212,Mecklenburg,LCID,LF,InactiveClosed,-,35.213047,-80.746274,Closed
+-9005132.4329,4201510.3467,388,P0300,60L-LCID-,Salem Baptist Church,5318 Salem Church Road,Charlotte,28216,Mecklenburg,LCID,LF,InactiveClosed,-,35.276428,-80.894481,Closed
+-8994629.5503,4210000.957,389,P0301,60M-LCID-,Blythe Industries Incorporated,4300 David Cox Road,Charlotte,28269,Mecklenburg,LCID,LF,InactiveClosed,-,35.338671,-80.800132,Closed
+-8991190.8912,4220741.4757,390,P0302,60AN-LCID,"Metrolina Greenhouses, Inc.",16400 Huntersville-Concord Road,Huntersville,28078,Mecklenburg,LCID,LF,Active,7/31/2019,35.417339,-80.769242,Open
+-9006657.8439,4208665.4727,391,P0303,60O-LCID-,"F.T.  Williams Co., Inc.",Oakdale Road,Charlotte,28216,Mecklenburg,LCID,LF,InactiveClosed,-,35.328884,-80.908184,Closed
+-8994341.7894,4208244.8156,392,P0304,60P-LCID-,Champion Contracting,Hubbard Road,Charlotte,28269,Mecklenburg,LCID,LF,InactiveClosed,-,35.325801,-80.797547,Closed
+-8996734.4905,4215695.1259,393,P0305,60Q-LCID-,Piedmont Grading & Wrecking,11898 Everette Keith Road,Huntersville,28078,Mecklenburg,LCID,LF,Active,3/3/2023,35.380387,-80.819041,Open
+-9002878.7698,4192919.4365,394,P0306,60R-LCID-,Weiss Brothers Construction,Remont Road,Charlotte,28203,Mecklenburg,LCID,LF,InactiveClosed,-,35.213401,-80.874236,Closed
+-8985935.7207,4210369.4138,395,P0307,60S-LCID-,Kenneth C. Reeves,2323 Salome Church Road,Charlotte,28262,Mecklenburg,LCID,LF,Active,12/14/2022,35.341371,-80.722034,Open
+-8990422.3414,4174401.0753,396,P0308,60T-LCID-,Harry Grimmer,Providence Plant.,Charlotte,28270,Mecklenburg,LCID,LF,InactiveClosed,-,35.077375,-80.762338,Closed
+-8997464.7464,4210244.41,397,P0309,60U-LCID-,Florida Steel Corporation,6601 Lakeview Road,Charlotte,28269,Mecklenburg,LCID,LF,InactiveClosed,-,35.340455,-80.825601,Closed
+-8978529.8576,4197527.6315,398,P0310,60V-LCID-,"F.T. Williams Company, Inc.",Harrisburg Road,Mint Hill,28215,Mecklenburg,LCID,LF,InactiveClosed,-,35.247215,-80.655506,Closed
+-8983942.4339,4198149.0821,399,P0311,60W-LCID-,J.C. Teeter,Plaza Road Extention,Charlotte,28215,Mecklenburg,LCID,LF,InactiveClosed,-,35.251774,-80.704128,Closed
+-9002448.0747,4171658.067,400,P0312,60X-LCID-,The Park Ministries Inc.,13733 Lancaster Highway,Pineville,28134,Mecklenburg,LCID,LF,InactiveClosed,-,35.057207,-80.870367,Closed
+-9004711.9792,4172219.0446,401,P0313,60Y-LCID-,Garfield Blackwell,Dorman Road,Pineville,28134,Mecklenburg,LCID,LF,InactiveClosed,-,35.061332,-80.890704,Closed
+-8971654.2092,4194394.1934,402,P0314,60Z-LCID-,Chambers Demo Landfill,10506 Coble Road,Charlotte,28227,Mecklenburg,LCID,LF,InactiveClosed,-,35.224224,-80.593741,Closed
+-8972193.4409,4194718.2493,403,P0315,60Z1-LCID-,Chambers,Coble Road,Charlotte,28227,Mecklenburg,LCID,LF,InactiveClosed,-,35.226602,-80.598585,Closed
+-9017457.7269,4201958.5653,404,P0316,60AA-LCID-,Sandoz,Mt. Holly Road / Blacksnake Road (S.R. 1606),Charlotte,28214,Mecklenburg,LCID,LF,InactiveClosed,-,35.279715,-81.005201,Closed
+-8986987.9125,4207645.3081,405,P0317,60AB-LCID-,Blythe Construction Company,Mallard Creed Church Road,Charlotte,28262,Mecklenburg,LCID,LF,InactiveClosed,-,35.321407,-80.731486,Closed
+-9011443.3575,4187278.3949,406,P0319,60AD-LCID-,Bickel Demolition Landfill,Shopton Road,Charlotte,28217,Mecklenburg,LCID,LF,InactiveClosed,-,35.171989,-80.951173,Closed
+-9010098.0614,4189969.0142,407,P0320,60AE-LCID-,Maria Ricciardi,Timberley Place,Charlotte,28217,Mecklenburg,LCID,LF,InactiveClosed,-,35.191744,-80.939088,Closed
+-9016790.3666,4185767.8215,408,P0321,60AG-LCID-,Bickel Demolition Landfill,Rock Island Road,Charlotte,28278,Mecklenburg,LCID,LF,InactiveClosed,-,35.160896,-80.999206,Closed
+-8998869.1531,4220655.9667,409,P0322,60AI-LCID-,Magla Products,Church Street,Huntersville,28078,Mecklenburg,LCID,LF,InactiveClosed,-,35.416713,-80.838217,Closed
+-8983541.6837,4187124.1008,410,P0323,60AK-LCID-,O. Kenneth Ivy,10399 Idlewild Road,Matthews,28105,Mecklenburg,LCID,LF,InactiveClosed,-,35.170856,-80.700528,Closed
+-9001578.0016,4208980.9419,411,P0324,60AX-LCID-,"Lakeview Road Landfill, Inc.",4627 Lakeview Road,Charlotte,28216,Mecklenburg,LCID,LF,Active,5/8/2022,35.331196,-80.862551,Open
+-8849564.5577,4194762.6749,412,P0326,63A-DEMO-,Pinehurst Corporation,Tram Road (S.R. 1289),Taylortown,27376,Moore,CD,LF,InactiveClosed,-,35.226928,-79.496991,Closed
+-8807418.8872,4312297.3811,413,P0327,68A-DEMO-,Comb's / Thompson Demo Landfill,U.S. Highway 70 (Lakeside Drive),Unknown,Unknown,Orange,CD,LF,InactiveClosed,-,36.08481,-79.11839,Closed
+-8807656.2203,4315783.4859,414,P0328,68B-DEMO-,"Hillsborough, Town of",Old Cedar Grove Road,Hillsboro,27278,Orange,CD,LF,InactiveClosed,-,36.110114,-79.120522,Closed
+-8806320.943,4311514.8701,415,P0329,68C-DEMO-,Kennedy Demolition Landfill,Queen Street,Hillsboro,27278,Orange,CD,LF,InactiveClosed,-,36.079129,-79.108527,Closed
+-8482867.9137,4334964.0657,416,P0330,70A-TIRELF-1987,Interstate Tire Disposal Service,S.R. 1169,Elizabeth City,27909,Pasquotank,Tire,LF,InactiveClosed,-,36.249191,-76.202899,Closed
+-8497827.6947,4332578.6544,417,P0331,72A-DEMO-1981,"Hertford, Town of",U.S. Hwy 17 Business,Hertford,27944,Perquimans,CD,LF,InactiveClosed,-,36.231908,-76.337285,Closed
+-8802768.4041,4366178.4723,418,P0332,73A-LCID-1979,Duke Energy Progress - Roxboro,Dunneway Road (S.R. 1377),Roxboro,27343,Person,LCID,LF,InactiveClosed,-,36.474996,-79.076614,Closed
+-8608998.4627,4247396.9457,419,P0333,74A-DEMO-1983,"Greenville, City of",Cemetary Road,Greenville,27858,Pitt,CD,LF,InactiveClosed,-,35.612243,-77.335949,Closed
+-8634373.9633,4247825.4028,420,P0334,74B-DEMO-1986,"Farmville, Town of",Stantonsburg Road (S.R. 1200),Farmville,27828,Pitt,CD,LF,InactiveClosed,-,35.615372,-77.563901,Closed
+-8884449.5258,4267701.7079,421,P0335,76A-DEMO-,"McRae Roofing & Siding, Inc.",Greenvale Road,Asheboro,27203,Randolph,CD,LF,InactiveClosed,-,35.760393,-79.810368,Closed
+-8870104.117,4147004.9238,422,P0337,77A-LCID-1981,"Hamlet, Town of",Off U.S. 74,Hamlet,28345,Richmond,LCID,LF,Active,2/11/2014,34.875721,-79.681501,Closed
+-8865427.8078,4153275.5757,423,P0339,77C-DEMO-,Seaboard CL Railroad,Campbell Road,Hamlet,28345,Richmond,CD,LF,InactiveClosed,-,34.921921,-79.639493,Closed
+-8790560.2182,4136368.7575,424,P0340,78A-DEMO-1980,"St. Pauls, Town of",Elizabeth Street,St. Pauls,28384,Robeson,CD,LF,InactiveClosed,-,34.797298,-78.966946,Closed
+-8806235.0044,4096029.2244,425,P0341,78B-DEMO-1980,"Fairmont, Town of",McDaniel Street,Fairmont,28340,Robeson,CD,LF,InactiveClosed,-,34.499187,-79.107755,Closed
+-8800929.7401,4118168.7724,426,P0342,78C-DEMO-,C.R. HAYES,Pine Log Road (S.R. 1527),Lumberton,28360,Robeson,CD,LF,InactiveClosed,-,34.662932,-79.060097,Closed
+-8812610.9396,4138866.8844,427,P0343,78D-LCID-1981,"Red Springs, Town of",Evon Road (S.R. 1776),Red Springs,28377,Robeson,LCID,LF,InactivePermitted,-,34.815724,-79.165031,Closed
+-8898486.2457,4155083.726,428,P0006,0401-MSWLF-1973,Anson County Landfill,Pit Road (S.R. 1801),Lilesville,28091,Anson,MSW,LF,Post-Closure,-,34.935238,-79.936462,Closed
+-8794397.1784,4106767.9039,429,P0344,78E-LCID-1981,"Lumberton, City of",Alamac Road,Robeson,28358,Robeson,LCID,LF,InactiveClosed,-,34.578651,-79.001414,Closed
+-8791857.6469,4136584.3016,430,P0345,78F-DEMO-,Fields Site,Hwy 301 S.,St. Pauls,28384,Robeson,CD,LF,InactiveClosed,-,34.798888,-78.978601,Closed
+-8793794.606,4109858.6746,431,P0346,78G-DEMO-,Frank Benton Demo Site,Hestertown Road (S.R. 2202),Lumberton,28358,Robeson,CD,LF,InactiveClosed,-,34.601508,-78.996001,Closed
+-8790882.4881,4103802.2015,432,P0347,78H-DEMO-,Marvin & Willis Walters Demo,U.S. Hwy 74 (Britts Twnshp.),Lumberton,28358,Robeson,CD,LF,InactiveClosed,-,34.556713,-78.969841,Closed
+-8834482.9931,4125253.9388,433,P0348,78I-LCID-1983,"Maxton, Town of Inert Landfill",483 Maxton Pond Road,Maxton,28364,Robeson,LCID,LF,InactivePermitted,-,34.715266,-79.361511,Open
+-8796997.2678,4119010.4887,434,P0349,78J-LCID-1990,"Lumberton, City of LCID Landfill",Off Clyborn Church (S.R. 1531) ,Lumberton,28359,Robeson,LCID,LF,Active,3/29/1995,34.669151,-79.024771,Closed
+-8865823.2146,4354128.3398,435,P0350,79A-DEMO-,O.E. Green Demo Landfill,N.E. Market Street,Reidsville,27320,Rockingham,CD,LF,InactiveClosed,-,36.387903,-79.643045,Closed
+-8874167.6123,4368036.8736,436,P0351,79B-LCID-,Duke Energy Carolinas - Dan River,900 S. Edgewood Road,Eden,27288,Rockingham,LCID,LF,InactiveClosed,-,36.488419,-79.718004,Closed
+-8991561.4738,4220573.3269,437,P0352,60AN-LCID-,Metrolina Greenhouse Demo LF,Concord Road,Huntersville,28078,Mecklenburg,LCID,LF,InactiveClosed,-,35.416108,-80.772571,Closed
+-8565041.2901,4154107.177,438,P0353,25E-DEMO-,Jackson Company,U.S. Hwy 70 (pine Grove),Havelock,28532,Craven,CD,LF,InactiveClosed,-,34.928046,-76.941075,Closed
+-8877497.5123,4368515.1287,439,P0354,79C-DEMO-,Fleming Demo Landfill,Kings Highway,Eden,27288,Rockingham,CD,LF,InactiveClosed,-,36.491873,-79.747917,Closed
+-8870706.8007,4350239.5907,440,P0355,79D-DEMO-,I E M  Demo Landfill,606 Walters Street,Reidsville,27320,Rockingham,CD,LF,InactiveClosed,-,36.359776,-79.686915,Closed
+-8871390.0797,4349751.6434,441,P0356,79E-DEMO-,Gordon Roberts,Reidsville,Reidsville,27320,Rockingham,CD,LF,InactiveClosed,-,36.356246,-79.693053,Closed
+-8973172.9411,4261195.5553,442,P0357,80A-DEMO-1981,Fiber Celanese,U.S. Hwy 70,Salisbury,28147,Rowan,CD,LF,InactiveClosed,-,35.712952,-80.607384,Closed
+-8719059.1527,4165972.9162,443,P0358,82A-LCID-,Triangle Auto Site,Beaman Street,Clinton,28328,Sampson,LCID,LF,InactiveClosed,-,35.015391,-78.324641,Closed
+-8835949.6274,4142100.7995,444,P0359,83A-DEMO-,J.P. Stevens & Co.,Airport Road,Wagram,28396,Scotland,CD,LF,InactiveClosed,-,34.839571,-79.374686,Closed
+-8841724.1033,4130095.8035,445,P0360,83B-DEMO-,Scotland County Demo Site,Rocky Ford Road (S.R. 1611),Maxton,28352,Scotland,CD,LF,InactiveClosed,-,34.751011,-79.426559,Closed
+-9222225.4775,4180010.2494,446,P0362,8807-LCID-1988,Transylvania County LCID,500 Howell Road,Brevard,28712,Transylvania,LCID,LF,Active,7/16/2023,35.118601,-82.844661,Closed
+-8729595.4312,4349880.7469,447,P0363,91A-DEMO-,"Henderson, City of",Hwy 39 N.,Henderson,Unknown,Vance,CD,LF,InactiveClosed,-,36.35718,-78.41929,Closed
+-8728716.7864,4348397.2565,448,P0364,91B-DEMO-,Jack Hughes Demo Landfill,Alpha Street,Henderson,27536,Vance,CD,LF,InactiveClosed,-,36.346447,-78.411397,Closed
+-8790030.4488,4251120.112,449,P0365,92A-DEMO-1980,Duke Energy Carolinas-Shearon Harris Nuclear Plant,Shearon Harris Plant,Raleigh,27562,Wake,CD,LF,InactiveClosed,-,35.639429,-78.962187,Closed
+-8736889.4182,4022616.4191,450,P0366,10A-DEMO-1982,Somersett Site,6510 Burkeswood Lane N.W.,Shallotte,28469,Brunswick,CD,LF,InactiveClosed,-,33.953921,-78.484813,Closed
+-8556016.3963,4227456.6865,451,P0367,07A-CDLF-1987,Beaufort County Demo Landfill,1342 Hawkins Beach Road,Washington,27889,Beaufort,CD,LF,InactiveClosed,-,35.466485,-76.860003,Closed
+-8458840.9374,4234889.9301,452,P0368,48C-DEMO-,Hyde County Demo Landfill,Hwy 264 N.,Englehard,27824,Hyde,CD,LF,InactiveClosed,-,35.520851,-75.987061,Closed
+-8932924.9339,4327254.6143,453,P0369,34M-DEMO-,Bernie Smith,5711 Merry Dale Drive,Winston-Salem,27105,Forsyth,CD,LF,InactiveClosed,-,36.19332,-80.24583,Closed
+-8817559.4249,4233668.8954,454,P0370,53A-DEMO-,Nixon Mac Landfill,McNeil Road,Sanford,27330,Lee,CD,LF,InactiveClosed,-,35.511923,-79.209484,Closed
+-9152933.6585,4192626.7705,455,P0371,75A-LCID-1990,"Tryon, Town of",Vaughn Street (S.R. 1504),Tryon,28782,Polk,LCID,LF,InactiveClosed,-,35.211253,-82.222202,Closed
+-8873414.7586,4158875.454,456,P0372,77B-DEMO-1983,"Rockingham, City of Demo Site",U.S. Hwy 1 N.,Rockingham,28379,Richmond,CD,LF,InactiveClosed,-,34.963157,-79.711241,Closed
+-8543455.9955,4281661.861,457,P0373,94A-DEMO-,Washington County,Adams Street,Plymouth,27962,Washington,CD,LF,InactiveClosed,-,35.862091,-76.747171,Closed
+-9005379.8961,4317941.2342,458,P0374,97A-DEMO-,Rummell Roberts Gregory,Somers Road,Hamptonville,27020,Wilkes,CD,LF,InactiveClosed,-,36.125772,-80.896704,Closed
+-9005379.8961,4317941.2342,459,P0375,97B-DEMO-,Michael Roberts,Somers Road,Hamptonville,27020,Wilkes,CD,LF,InactiveClosed,-,36.125772,-80.896704,Closed
+-9057958.2067,4372121.975,460,P0007,0501-MSWLF-1980,Ashe County Landfill,Willie Brown Road (S.R. 1558),Crumpler,28617,Ashe,MSW,LF,Post-Closure,-,36.517917,-81.369023,Closed
+-9127454.9648,4293336.19,461,P0008,0601-MSWLF-1987,Avery County Landfill,Brushy Creek Road (S.R. 1101),Newland,28657,Avery,MSW,LF,Post-Closure,-,35.947037,-81.993323,Closed
+-8556194.8415,4228107.438,462,P0009,0702-MSWLF-1987,Beaufort County Landfill,S.R. 1334,Bath,27889,Beaufort,MSW,LF,Post-Closure,-,35.471246,-76.861606,Closed
+-8576875.9991,4315859.1335,463,P0010,0801-MSWLF-1979,Bertie County Landfill,Charles Taylor Road (S.R. 1221),Republican,27805,Bertie,MSW,LF,Post-Closure,-,36.110663,-77.047388,Closed
+-8537728.6077,4301232.8768,464,P0011,0802-INDUS-1984,R.J. Reynolds Landfill,S.R. 1502,Merry Hill,27983,Bertie,Indus,LF,Post-Closure,-,36.004444,-76.695721,Closed
+-8751021.3162,4110489.8606,465,P0012,0901-MSWLF-1981,Bladen County Landfill,1522 Mercer Mill Road,Elizabethtown,28337,Bladen,MSW,LF,Post-Closure,-,34.606175,-78.611762,Open
+-8683763.4157,4024028.5885,466,P0013,1001-INDUS-1980,Duke Energy Progress - Southport,NC Highway 87,Southport,28461,Brunswick,Indus,LF,InactiveClosed,-,33.964443,-78.007574,Closed
+-8711948.0636,4034644.913,467,P0015,1007-MSWLF-1983,Brunswick County Landfill,Galloway Road NE (S.R. 1401),Bolivia,28422,Brunswick,MSW,LF,Post-Closure,-,34.043503,-78.260761,Closed
+-9195021.8882,4253897.9043,468,P0016,1101-MSWLF-1979,Buncombe County Landfill,2700 Riverside Drive,Woodfin,28804,Buncombe,MSW,LF,Post-Closure,-,35.659706,-82.600287,Closed
+-9200060.6536,4238443.8481,469,P0017,1102-INDUS-1980,BASF Corporation,U.S. Highway 19 & 23,Enka,28715,Buncombe,Indus,LF,Post-Closure,-,35.546831,-82.645551,Closed
+-9066508.4342,4268112.0295,470,P0018,1202-MSWLF-,Burke County Landfill (East),Knob-Rhodiss / Airport-Rhodiss,Morganton,28612,Burke,MSW,LF,Post-Closure,-,35.763384,-81.445831,Closed
+-9089132.7848,4270556.0332,471,P0019,1203-MSWLF-1987,Burke County Landfill,Duckworth Street (S.R. 1505),Morganton,28655,Burke,MSW,LF,Post-Closure,-,35.781197,-81.649069,Closed
+-8980670.754,4212170.9353,472,P0020,1301-MSWLF-1980,BFI-Charlotte Motor Speedway,U.S. Highway 29,Concord,28027,Cabarrus,MSW,LF,Post-Closure,-,35.354571,-80.674738,Closed
+-8963138.7135,4228559.4738,473,P0021,1302-MSWLF-1974,Cabarrus County Landfill,Irish Potato Road (S.R. 2411),Concord,28025,Cabarrus,MSW,LF,Post-Closure,-,35.474553,-80.517245,Closed
+-9068433.1482,4284446.477,474,P0022,1401-MSWLF-1975,Caldwell County Landfill,S.R. 1160,Hudson,28645,Caldwell,MSW,LF,Post-Closure,-,35.882361,-81.463121,Closed
+-8559887.7543,4131583.528,475,P0023,1602-MSWLF-1983,Carteret County Landfill,Hibbs Road (S.R. 1141),Newport,28570,Carteret,MSW,LF,Post-Closure,-,34.761991,-76.89478,Closed
+-8835370.0981,4361207.5189,476,P0024,1701-MSWLF-1985,Caswell County Landfill,Landfill Road (S.R. 1367),Yanceyville,27379,Caswell,MSW,LF,Post-Closure,-,36.43908,-79.36948,Closed
+-9034915.8513,4252995.3219,477,P0025,1801-MSWLF-1973,Catawba County Landfill,Bethany Church Road (S.R. 1804),Newton,28658,Catawba,MSW,LF,Post-Closure,-,35.653118,-81.16203,Closed
+-9050876.9513,4245619.2125,478,P0026,1803-MSWLF-1981,Blackburn Resource Recovery Facility,4017 Rockyford Road,Newton,28658,Catawba,MSW,LF,Post-Closure,-,35.599259,-81.305411,Closed
+-9013440.7631,4248044.4989,479,P0027,1804-INDUS-1983,Duke Energy Carolinas-Marshall Original,8320 East NC Highway 150,Terrell,28682,Catawba,Indus,LF,Post-Closure,-,35.616972,-80.969116,Open
+-8823478.9501,4265494.2476,480,P0028,1901-MSWLF-1979,Chatham County Landfill,Landfill Road (S.R. 1578),Pittsboro,27312,Chatham,MSW,LF,Post-Closure,-,35.7443,-79.26266,Closed
+-8799670.494,4245776.245,481,P0029,1902-DEMO-1985,Neste Resins Corporation,Corinth Road (S.R. 1916),Moncure,27559,Chatham,CD,LF,InactiveClosed,-,35.600406,-79.048785,Closed
+-9340077.196,4188210.1972,482,P0030,2001-MSWLF-1990,Cherokee County Landfill,Fairview Road (S.R. 1515),Marble,28905,Cherokee,MSW,LF,Post-Closure,-,35.178831,-83.903341,Closed
+-9326832.403,4167831.1195,483,P0031,2201-MSWLF-1982,Clay County Landfill,Hinston Mem Road (S.R. 1148),Clay,28904,Clay,MSW,LF,Post-Closure,-,35.029061,-83.784361,Closed
+-9070804.3646,4208839.4435,484,P0032,2301-MSWLF-1990,Cleveland County Landfill Self-McNeilly,250 Fielding Road,Cherryville,28021,Cleveland,MSW,LF,Post-Closure,,35.330159,-81.484422,Open
+-9070804.3646,4208839.4435,485,P0032,2301-MSWLF-2009,Cleveland County Landfill Self-McNeilly,250 Fielding Road,Cherryville,28021,Cleveland,MSW,LF,Active,5/15/2069,35.330159,-81.484422,Open
+-9072649.8191,4190547.4022,486,P0033,2302-INDUS-1975,Cleveland Container Service,S.R. 1212,Shelby,28073,Cleveland,Indus,LF,Post-Closure,-,35.19599,-81.501,Closed
+-9087588.0043,4208125.8393,487,P0034,2303-INDUS-1975,PPG Industries,S.R. 1313 and Washburn Road (S.R. 1323),Shelby,28150,Cleveland,Indus,LF,Post-Closure,-,35.324929,-81.635192,Closed
+-8766466.7842,4067804.8224,488,P0035,2401-MSWLF-1982,ARS - Columbus County,354 Landfill Road,Whiteville,28472,Columbus,MSW,LF,Post-Closure,-,34.289971,-78.750511,Closed
+-8705965.8655,4075498.6432,489,P0036,2402-INDUS-1972,International Paper,865 John L Riegel Road,Riegelwood,28456,Columbus,Indus,LF,Post-Closure,-,34.347054,-78.207022,Open
+-8705965.8655,4075498.6432,490,P0036,2402-INDUS-2005,International Paper,865 John L Riegel Road,Riegelwood,28456,Columbus,Indus,LF,Active,2/17/2065,34.347054,-78.207022,Open
+-8583735.6175,4193232.14,491,P0037,2502-INDUS-,International Paper,1785 Weyerhaeuser Road,Vanceboro,28586,Craven,Indus,LF,Post-Closure,-,35.215696,-77.109009,Open
+-8596848.3856,4187319.6584,492,P0038,2503-MSWLF-1982,Craven County Landfill,S.R. 1005,New Bern,28562,Craven,MSW,LF,Post-Closure,-,35.172292,-77.226803,Closed
+-8779710.5754,4172567.613,493,P0039,2601-MSWLF-1980,Cumberland County Landfill,698 Ann Street,Fayetteville,28301,Cumberland,MSW,LF,Post-Closure,-,35.063895,-78.869482,Closed
+-8800030.8352,4183294.8095,494,P0040,2602-MSWLF-1981,U.S. Army - Ft. Bragg Landfill,Longstreet Road,Fort Bragg,28310,Cumberland,MSW,LF,Post-Closure,-,35.142732,-79.052022,Closed
+-8461774.3173,4355271.8529,495,P0041,2701-MSWLF-1981,Currituck County Landfill,NC Highway 158,Maple,27956,Currituck,MSW,LF,Post-Closure,-,36.396172,-76.013412,Closed
+-8446898.4711,4283029.9018,496,P0042,2802-MSWLF-1982,Dare County Landfill,U.S. Highway 64,East Lake,27953,Dare,MSW,LF,Post-Closure,-,35.87205,-75.87978,Closed
+-8925460.2941,4279071.0357,497,P0043,2902-MSWLF-1985,Davidson County Landfill,Roy Lopp Road (S.R. 2014),Holly Grove,27292,Davidson,MSW,LF,Post-Closure,-,35.843227,-80.178774,Closed
+-8929463.1204,4277653.2374,498,P0044,2903-MSWLF-1972,"Lexington, City of Landfill",East Park Avenue (S.R. 2001),Lexington,27292,Davidson,MSW,LF,Post-Closure,-,35.832902,-80.214732,Closed
+-8916767.1324,4286845.3623,499,P0045,2904-MSWLF-,"Thomasville, City of Landfill",NC Hwy 109,Thomasville,27360,Davidson,MSW,LF,Post-Closure,-,35.899819,-80.100682,Closed
+-8936263.6281,4266369.4694,500,P0046,2905-INDUS-1980,PPG Industries,New Jersey Road,Lexington,27292,Davidson,Indus,LF,InactiveClosed,-,35.750681,-80.275822,Closed
+-8963730.9332,4283489.9834,501,P0047,3001-MSWLF-1981,Davie County Landfill,360 Dalton Road,Mocksville,27028,Davie,MSW,LF,Post-Closure,-,35.875399,-80.522565,Closed
+-8680568.8803,4144648.9116,502,P0048,3101-MSWLF-1981,Duplin County Landfill,Landfill Road (S.R. 1918),Kenansville,28458,Duplin,MSW,LF,Post-Closure,-,34.858356,-77.978877,Closed
+-8778153.327,4305064.9234,503,P0049,3201-MSWLF-1979,"Durham, City of Landfill",Glenn Road (S.R. 1636),Durham,27704,Durham,MSW,LF,Post-Closure,-,36.032287,-78.855493,Closed
+-8781450.9443,4301633.5935,504,P0050,3203-INDUS-,Thermal Reduction Systems,817 E Trinity Street,Durham,27704,Durham,Indus,LF,InactiveClosed,-,36.007356,-78.885116,Closed
+-8634524.2446,4276083.5069,505,P0051,3301-MSWLF-1979,Edgecombe County Landfill,Colonial Road (S.R. 1601),Tarboro,27886,Edgecombe,MSW,LF,Post-Closure,-,35.821469,-77.565251,Closed
+-8930324.3993,4305689.8944,506,P0053,3403-MSWLF-1976,"Winston-Salem, City of Landfill",Overdale Street / Old Milwaukee Lane,Winston-Salem,27107,Forsyth,MSW,LF,InactiveClosed,-,36.036827,-80.222469,Closed
+-8909808.885,4327090.0562,507,P0054,3404-MSWLF-1985,"Kernersville, City of Landfill",Benefit Church Road (S.R. 1970),Kernersville,27284,Forsyth,MSW,LF,Post-Closure,-,36.192127,-80.038175,Closed
+-8936452.7599,4334995.1239,508,P0055,3405-INDUS-1986,R.J. Reynolds,Edwards Road (S.R. 1903),Rural Hall,27045,Forsyth,Indus,LF,Post-Closure,-,36.249416,-80.277521,Closed
+-8724911.8862,4308849.9909,509,P0056,3501-MSWLF-1984,Franklin County Landfill,Timberlake Road (S.R. 1109),Franklinton,27525,Franklin,MSW,LF,Post-Closure,-,36.059779,-78.377217,Closed
+-9050797.6918,4201333.4914,510,P0057,3605-INDUS-1978,FMC Corporation Lithium Division,NC Hwy 161,Bessemer City,28106,Gaston,Indus,LF,Post-Closure,-,35.275131,-81.304699,Closed
+-9036359.1085,4216432.4326,511,P0058,3606-MSWLF-1986,Gaston County Landfill,Philadelphia Church Road (S.R. 1001),Dallas,28034,Gaston,MSW,LF,Post-Closure,-,35.385787,-81.174995,Closed
+-9333248.6358,4201076.8723,512,P0059,3801-MSWLF-1989,Graham County Landfill,Atoah Road (S.R. 1112),Robbinsville,28771,Graham,MSW,LF,Post-Closure,-,35.273249,-83.841999,Closed
+-9330818.7539,4223724.0503,513,P0060,3802-MSWLF-1972,Fontana Village Resort,Gold Branch Road,Fontana Village,28733,Graham,MSW,LF,InactiveClosed,-,35.439171,-83.820171,Closed
+-8752316.9638,4351026.8497,514,P0061,3901-MSWLF-1981,Granville County Landfill,6584 Landfill Road,Oxford,27565,Granville,MSW,LF,Post-Closure,-,36.365471,-78.623401,Closed
+-8767421.5715,4322933.7623,515,P0062,3902-MSWLF-1982,Granville County Landfill,Butner Road (S.R. 1004),Butner,27581,Granville,MSW,LF,Post-Closure,-,36.161989,-78.759088,Closed
+-8648833.9198,4235636.048,516,P0063,4002-MSWLF-1982,Greene County Landfill,105 Landfill Road,Walstonburg,27888,Greene,MSW,LF,Post-Closure,-,35.526306,-77.693797,Open
+-8895182.1718,4293115.7698,517,P0064,4101-MSWLF-1979,"High Point, City of Landfill",Riverdale Road (S.R. 1145),High Point,27263,Guilford,MSW,LF,Post-Closure,-,35.945434,-79.906781,Closed
+-8855538.8521,4312463.3672,518,P0065,4102-MSWLF-1976,"Gibsonville, Town of Landfill",1234 Springwood Church Road,Gibsonville,27249,Guilford,MSW,LF,InactiveClosed,-,36.086015,-79.550659,Closed
+-8874769.2942,4316094.7605,519,P0066,4103-MSWLF-,"Greensboro, City Of Landfill",White Street,Greensboro,27405,Guilford,MSW,LF,Post-Closure,-,36.112373,-79.723409,Closed
+-8874769.2942,4316094.7605,520,P0066,4103-MSWLF-1987,"Greensboro, City Of Landfill",White Street,Greensboro,27405,Guilford,MSW,LF,Post-Closure,-,36.112373,-79.723409,Closed
+-8898099.2991,4294400.8149,521,P0067,4104-MSWLF-1991,"High Point, City of MSW Landfill",3940 East Kivett Drive,High Point,27261,Guilford,MSW,LF,Active,9/28/2021,35.954779,-79.932986,Open
+-8642613.832,4364432.2311,522,P0070,4203-INDUS-1981,Champion International,NC Highway 48,Roanoke  Rapids,27870,Halifax,Indus,LF,Post-Closure,-,36.462381,-77.637921,Closed
+-8662026.1701,4352251.0516,523,P0071,4204-MSWLF-1981,Halifax County Landfill,Liles Road (S.R. 1417),Aurelian Spring,27850,Halifax,MSW,LF,Post-Closure,-,36.374326,-77.812305,Closed
+-8755003.2144,4213635.7074,524,P0072,4302-MSWLF-1988,Harnett County Landfill,Ashe Avenue (S.R. 1725),Dunn/Erwin,28334,Harnett,MSW,LF,Post-Closure,-,35.365302,-78.647532,Closed
+-8794026.8185,4203486.3543,525,P0073,4303-MSWLF-1984,Harnett Co. Anderson Creek Landfill,Poplar Drive (S.R. 1164),Lillington,28390,Harnett,MSW,LF,Post-Closure,-,35.290918,-78.998087,Closed
+-9220454.7183,4238891.7946,526,P0074,4401-INDUS-1979,Champion International,Beaverdam Road,Canton,28716,Haywood,Indus,LF,Post-Closure,-,35.550105,-82.828754,Closed
+-9235024.9925,4232446.0821,527,P0075,4403-MSWLF-1982,Haywood County Landfill,176 Farmview Drive,Waynesville,28786,Haywood,MSW,LF,Post-Closure,-,35.502981,-82.959641,Closed
+-9219574.9604,4235447.975,528,P0076,4404-MSWLF-1975,"Canton, Town of Landfill",Dutch Cove Road (S.R. 1854),Canton,28716,Haywood,MSW,LF,InactiveClosed,-,35.524931,-82.820851,Closed
+-9225571.7414,4238825.5729,529,P0077,4406-INDUS-1984,"Blue Ridge Paper Products, Inc.",1155 Incinerator Road,Canton,28716,Haywood,Indus,LF,Active,3/28/2044,35.549621,-82.874721,Open
+-9183459.1327,4212267.4342,530,P0078,4501-MSWLF-1980,Henderson County Solid Waste Division Transfer Facility,191 Transfer Station Dr,Hendersonville,28791,Henderson,MSW,LF,Post-Closure,-,35.355278,-82.496417,Closed
+-9184054.2467,4221229.2719,531,P0080,4503-INDUS-1982,Cranston Print Works,U.S. Highway 25,Fletcher,28732,Henderson,Indus,LF,InactiveClosed,-,35.42091,-82.501763,Closed
+-8568436.6459,4354744.5412,532,P0081,4601-MSWLF-1983,Hertford County Landfill,Mt Moriah Road (S.R. 1174),Winton,27910,Hertford,MSW,LF,Post-Closure,-,36.392359,-76.971576,Closed
+-8818711.8042,4164957.7643,533,P0082,4701-MSWLF-1981,Hoke County Landfill,Doc Brown Road (S.R. 1302),Raeford,28376,Hoke,MSW,LF,Post-Closure,-,35.007922,-79.219836,Closed
+-8996736.7169,4270181.5697,534,P0083,4901-MSWLF-1975,Iredell County Landfill,243 Twin Oaks Road,Statesville,28625,Iredell,MSW,LF,InactiveClosed,-,35.778468,-80.819061,Closed
+-9259805.8244,4208023.7826,535,P0084,5001-MSWLF-1984,Western Carolina University,Monteith Road (S.R. 1336),Cullowhee,28723,Jackson,MSW,LF,Post-Closure,-,35.324181,-83.182251,Closed
+-9268768.3792,4214544.3434,536,P0085,5002-MSWLF-1984,Jackson County Landfill,U.S. Highway 441,Dillsboro,28779,Jackson,MSW,LF,InactiveClosed,-,35.371958,-83.262763,Closed
+-8730698.7186,4233535.9684,537,P0086,5103-MSWLF-1984,Johnston County Landfill,County Home Road (S.R. 1503),Smithfield,27577,Johnston,MSW,LF,Post-Closure,-,35.510951,-78.429201,Closed
+-8609699.7755,4171951.2678,538,P0087,5201-MSWLF-,Jones County Landfill,Jones County Landfill Road (S.R. 1343),Trenton,28585,Jones,MSW,LF,Post-Closure,-,35.059363,-77.342249,Closed
+-8814875.178,4214185.303,539,P0088,5301-MSWLF-1981,Lee County Landfill,Sanders Road (S.R. 1177),Lemon Springs,27332,Lee,MSW,LF,Post-Closure,-,35.369328,-79.185371,Closed
+-8650777.3355,4204293.4963,540,P0089,5403-MSWLF-1981,Lenoir County MSW Landfill,Hodges Farm Road (S.R. 1524),La Grange,28551,Lenoir,MSW,LF,Post-Closure,-,35.296836,-77.711255,Closed
+-8624788.4645,4207783.6531,541,P0090,5404-INDUS-1981,Dupont,NC Highway 11,Kinston,28530,Lenoir,Indus,LF,Post-Closure,-,35.322421,-77.477793,Closed
+-9056495.1346,4221490.7319,542,P0091,5503-MSWLF-1986,Lincoln County Landfill,5291 Crouse Road,Crouse,28033,Lincoln,MSW,LF,Active,10/8/2053,35.422824,-81.35588,Open
+-9123393.2505,4253403.3106,543,P0092,5601-MSWLF-1980,McDowell County Landfill,NC Highway 226,Marion,28752,McDowell,MSW,LF,Post-Closure,-,35.656096,-81.956836,Closed
+-9141519.7372,4249788.66,544,P0093,5603-INDUS-1981,International Automotive Components Group NA,1506 E Main Street,Old Fort,28762,McDowell,Indus,LF,InactiveClosed,-,35.629708,-82.119669,Closed
+-9141519.7372,4249788.66,545,P0093,5603I-INDUS-2009,International Automotive Components Group NA,1506 E Main Street,Old Fort,28762,McDowell,Indus,LF,Post-Closure,9/19/2007,35.629708,-82.119669,Closed
+-9280186.1967,4192382.6155,546,P0094,5701-MSWLF-1989,Macon County Landfill Closed,Lake Emory Road (S.R. 1325),Franklin,28734,Macon,MSW,LF,Post-Closure,-,35.209461,-83.365331,Closed
+-9258889.4423,4166178.1597,547,P0095,5702-MSWLF-1985,Macon County Landfill,Lake Emory Road (S.R. 1325),Highlands,28741,Macon,MSW,LF,Post-Closure,-,35.016901,-83.174019,Closed
+-9200662.5581,4273535.1844,548,P0096,5802-MSWLF-1981,Madison County Landfill,23 Long Branch Road,Marshall,28753,Madison,MSW,LF,Post-Closure,-,35.802905,-82.650958,Closed
+-8582001.0371,4282148.1215,549,P0097,5901-MSWLF-1985,Martin County Landfill,Corey Divine Road (S.R. 1440),Williamston,27892,Martin,MSW,LF,Post-Closure,-,35.865631,-77.093427,Closed
+-8550065.0337,4280849.827,550,P0098,5902-INDUS-1981,Weyerhaeuser,Pulp Mill Road (S.R. 1565),Plymouth,27846,Martin,Indus,LF,InactiveClosed,-,35.856179,-76.806541,Closed
+-8982329.1918,4193715.3148,551,P0099,6001-MSWLF-1985,Harrisburg Road Landfill,Harrisburg Road (S.R. 2805),Charlotte,28215,Mecklenburg,MSW,LF,Post-Closure,-,35.219242,-80.689636,Closed
+-9010856.2585,4220364.8861,552,P0100,6004-INDUS-1981,Duke Energy Carolinas  - McGuire ,12700 Hagers Ferry Road,Huntersville,28078,Mecklenburg,Indus,LF,Active,7/30/2052,35.414582,-80.945899,Open
+-8901432.4273,4208734.6513,553,P0101,6201-MSWLF-1980,Montgomery County Landfill,Landfill Road (S.R. 1137),Troy,27306,Montgomery,MSW,LF,Post-Closure,-,35.329391,-79.962928,Closed
+-8848656.1907,4184042.0737,554,P0102,6301-MSWLF-1979,Moore County Landfill,456 Turning Leaf Way,Aberdeen,28315,Moore,MSW,LF,Post-Closure,-,35.148221,-79.488831,Closed
+-8682190.1373,4309085.7409,555,P0103,6401-MSWLF-1983,Nash County Landfill,Duke Road (S.R. 1411),Nashville,27856,Nash,MSW,LF,Post-Closure,-,36.061491,-77.993441,Closed
+-8682813.4152,4072402.8561,556,P0104,6504-MSWLF-1981,New Hanover County Landfill,3002 US Highway 421 North ,Wilmington,28401,New Hanover,MSW,LF,Active,8/24/2041,34.32409,-77.99904,Open
+-8682813.4152,4072402.8561,557,P0104,6504-MSWLF-2017,New Hanover County Landfill,3002 US Highway 421 North ,Wilmington,28401,New Hanover,MSW,LF,Active,1/3/2079,34.32409,-77.99904,Open
+-8620946.8289,4357046.8969,558,P0107,6601-MSWLF-1982,Northampton County Landfill,NC Highway 305,Jackson,27845,Northampton,MSW,LF,Post-Closure,-,36.409006,-77.443283,Closed
+-8596277.7618,4359492.6615,559,P0108,6603-INDUS-1985,Georgia Pacific,NC Highway 35,Conway,27820,Northampton,Indus,LF,InactiveClosed,-,36.426686,-77.221677,Closed
+-8610706.549,4137035.7377,560,P0109,6702-INDUS-,Weyerhaeuser,U.S. Highway 17 N.,Jacksonville,28546,Onslow,Indus,LF,InactiveClosed,-,34.802218,-77.351293,Closed
+-8606408.2808,4117084.6094,561,P0110,6703-MSWLF-1982,U.S. Marine Corps - Camp Lejuene,Sneads Ferry Road,Jacksonville,28547,Onslow,MSW,LF,InactiveClosed,-,34.654921,-77.312681,Closed
+-8632023.6749,4136676.892,562,P0111,6705-MSWLF-1984,Onslow County Municipal SW Landfill,415 Meadowview Road,Jacksonville,28540,Onslow,MSW,LF,Post-Closure,-,34.799571,-77.542788,Closed
+-8802167.3902,4296449.2256,563,P0112,6801-MSWLF-,Orange County Landfill,1514 Eubanks Road,Chapel Hill,27516,Orange,MSW,LF,InactiveClosed,-,35.969673,-79.071215,Open
+-8802167.3902,4296449.2256,564,P0112,6801-MSWLF-1982,Orange County Landfill,1514 Eubanks Road,Chapel Hill,27516,Orange,MSW,LF,Post-Closure,2/12/2014,35.969673,-79.071215,Open
+-8555012.7398,4189356.8766,565,P0114,6902-MSWLF-1982,Pamlico County Landfill,NC Hwy 306,Bayboro,28529,Pamlico,MSW,LF,Post-Closure,-,35.18725,-76.850987,Closed
+-8489865.0116,4333730.3711,566,P0115,7002-MSWLF-1983,Pasquotank County Landfill,Simpson Ditch Road (S.R. 1144),Elizabeth City,27909,Pasquotank,MSW,LF,Post-Closure,-,36.240253,-76.265755,Closed
+-8634456.3397,4088036.8671,567,P0116,7101-MSWLF-1982,Pender County Landfill,NC Hwy 210-50,Burgaw,28443,Pender,MSW,LF,Post-Closure,-,34.439996,-77.564641,Closed
+-8681558.3992,4102525.4789,568,P0117,7102-MSWLF-1984,Pender County Landfill (Surf City Convenience Center),New Savannah Road (S.R. 1340),Topsail,28425,Pender,MSW,LF,Post-Closure,-,34.547267,-77.987766,Closed
+-8521344.6051,4343126.4591,569,P0118,7201-MSWLF-1979,Perquimans-Chowan County Landfill,759 Perry's Bridge Road,Belvidere,27919,Perquimans,MSW,LF,Post-Closure Complete,-,36.308301,-76.548541,Closed
+-8779609.2746,4159038.4571,570,P0573,26K-LCID-,Doc Bennett LCID Landfill,Doc Bennett Road (adjacent to 1561 Sandy Run Rd),Fayetteville,28306,Cumberland,LCID,LF,Active,4/20/2020,34.964357,-78.868572,Open
+-8779519.1058,4303737.7367,571,P0575,32H-LCID-,Midland Terrace LCID Landfill,Midland Terrace,Durham,27704,Durham,LCID,LF,InactiveClosed,-,36.022645,-78.867762,Closed
+-8608915.1957,4132761.1114,572,P0576,67C-LCID-,Eastern Excavating Landfill,143 Penguin Lane,Jacksonville,28546,Onslow,LCID,LF,Active,7/7/2020,34.770681,-77.335201,Open
+-8631855.1371,4128528.6226,573,P0577,67D-LCID-,Haugen Landfill,3062 Burgaw Hwy,Jacksonville,28574,Onslow,LCID,LF,Active,10/5/2020,34.739443,-77.541274,Closed
+-8889719.8358,4301393.7397,574,P0579,41N-CDLF-,Wiley David Landfill,Wiley Davis Road,Greensboro,27407,Guilford,CD,LF,InactiveClosed,-,36.005613,-79.857712,Closed
+-8619059.7409,4257134.4144,575,P0584,74D-LCID-,E.R. Lewis,3034 NC Highway 33 West,Greenville,27833,Pitt,LCID,LF,Active,3/5/2023,35.683325,-77.426331,Open
+-8912726.0123,4311352.4796,576,P0587,34X-DEMO-,Glenn Hart,1720 Hwy 66 South,Kernersville,27284,Forsyth,CD,LF,InactiveClosed,-,36.07795,-80.06438,Closed
+-8440013.3606,4278009.1458,577,P0588,2803-CDLF-1995,Dare County C&D Landfill,1531 Link Road,Manns Harbor,27953,Dare,CD,LF,Active,11/15/2055,35.835494,-75.81793,Open
+-8581909.8665,4281844.0001,578,P0592,5901-CDLF-1995,Martin County C&D Landfill,1445 Landfill Road,Williamston,27892,Martin,CD,LF,Active,1/11/2055,35.863417,-77.092608,Open
+-8980068.8496,4211347.2486,579,P0593,1301-CDLF-1995,BFI - Charlotte Motor Speedway,5105 Morehead Road,Concord,28027,Cabarrus,CD,LF,Post-Closure,-,35.348536,-80.669331,Closed
+-9148382.2498,4291398.2134,580,P0594,10002-CDLF-1997,Yancey-Mitchell C&D Landfill,555 Landfill Road,Burnsville,28714,Yancey,CD,LF,Post-Closure,5/29/2009,35.932942,-82.181316,Open
+-8687434.6212,4289354.6033,581,P0607,64B-LCID-,Peggy Green LCID Landfill,Sir Gus Road (S.R. 1920),Spring Hope,27882,Nash,LCID,LF,InactiveClosed,-,35.918076,-78.040553,Closed
+-8963389.8502,4284026.0601,582,P0608,3003-CDLF-1995,Davie County C&D Landfill,137 Greene Street,Mocksville,27028,Davie,CD,LF,InactiveClosed,-,35.879301,-80.519501,Closed
+-8692995.3637,4260522.4094,583,P0613,9802TP-CDLF-,Phoenix Recycling Site #2 (stockpiled 1999),7346 Rock Ridge School Road,Kenly,27542,Wilson,CD,LF,InactiveClosed,-,35.708042,-78.090506,Closed
+-8671263.0161,4072269.5476,584,P0614,6503-MSWLF-1980,Blue Clay Road Landfill,4129 Blue Clay Road,Wilmington,28429,New Hanover,MSW,LF,InactiveClosed,-,34.323101,-77.895281,Closed
+-8996218.8586,4218757.32,585,P0665,6002-MSWLF-1973,Holbrooks Road Sanitary Landfill,15401 Holbrooks Road,Huntersville,28078,Mecklenburg,MSW,LF,Post-Closure,-,35.402812,-80.814409,Closed
+-9006963.3046,4187089.5109,586,P0666,6003-MSWLF-1980,York Road Sanitary Landfill,1536 W. Tyvola Road,Charlotte,28217,Mecklenburg,MSW,LF,Post-Closure,-,35.170602,-80.910928,Closed
+-9016561.8277,4204485.8115,587,P0668,6005-INDUS-,Sodyeco Chemical Landfill,11701 Mount Holly Road,Charlotte,28214,Mecklenburg,Indus,LF,InactiveClosed,-,35.298246,-80.997153,Closed
+-8534067.8663,4289976.7461,588,P0675,9404-CDLF-1996,Washington County C&D Landfill,718 Landfill Road,Roper,27970,Washington,CD,LF,Active,1/30/2056,35.922602,-76.662836,Open
+-8888644.9348,4351768.1284,589,P0681,7904-MSWLF-1995,Rockingham County Landfill,281 Shuff Road,Madison,27025,Rockingham,MSW,LF,Active,5/2/2055,36.370833,-79.848056,Open
+-8765262.3073,4296263.2656,590,P0695,32I-LCID-,Currin Landfill #2,1810 Coley Road,Durham,27703,Durham,LCID,LF,Active,10/21/2020,35.968321,-78.739691,Open
+-8961072.2898,4171855.3919,591,P0699,9003-CDLF-1995,Griffin Farm CDLF,4242 Morgan Mill Road,Monroe,28110,Union,CD,LF,Post-Closure,-,35.058658,-80.498682,Closed
+-8900866.3677,4210416.9047,592,P0700,6204-MSWLF-1995,Uwharrie Env. Reg. Landfill,500 Landfill Road,Mount Gilead,27371,Montgomery,MSW,LF,Active,12/11/2055,35.341719,-79.957843,Open
+-9199058.7782,4262984.7346,593,P0701,1107-MSWLF-1996,Buncombe County MSW Landfill,85 Panther Branch Road,Alexander,28701,Buncombe,MSW,LF,Active,11/15/2056,35.726001,-82.636551,Open
+-8607444.6652,4121602.4894,594,P0702,6708-MSWLF-1997,Camp Lejeune MSW Landfill,"Bldg. 982, Piney Green Road",Camp Lejeune,28542,Onslow,MSW,LF,Active,12/30/2057,34.688299,-77.321991,Open
+-8974259.0853,4194768.671,595,P0705,60AV-INDUS-,Vulcan Materials,14129 Albemarle Road,Mint Hill,28227,Mecklenburg,Indus,LF,InactiveClosed,-,35.226972,-80.617141,Closed
+-9012372.3186,4194486.7214,596,P0706,60AU-LCID-,Charlotte Douglas Internat'l Airport,7200 Old Dowd Road,Charlotte,28214,Mecklenburg,LCID,LF,InactiveClosed,-,35.224903,-80.959518,Closed
+-9002750.1958,4171794.3309,597,P0707,60AW-DEMO-,The Park Ministries Inc.,13733 Lancaster Highway,Pineville,28134,Mecklenburg,CD,LF,InactiveClosed,-,35.058209,-80.873081,Closed
+-8936476.6936,4300515.9721,598,P0708,3412-CDLF-1995,"Winston-Salem, City of Old Salisbury Road CDLF",3336 Old Salisbury Road,Winston-Salem,27127,Forsyth,CD,LF,Active,7/3/2056,35.999234,-80.277736,Open
+-8733248.7142,4160866.9714,599,P0714,8202-CDLF-1996,Sampson County C&D Landfill (Site B),7434 Roseboro Highway,Roseboro,28382,Sampson,CD,LF,Active,6/1/2026,34.977817,-78.452108,Open
+-9207992.1674,4274358.2039,600,P0715,5803-CDLF-1995,Madison County Solid Waste C&D Unit,271 Craig Rudisill Road,Marshall,28753,Madison,CD,LF,Active,6/15/2021,35.808901,-82.716801,Open
+-9056253.5713,4221977.605,601,P0716,5503-CDLF-1999,Lincoln County C&D Unit,5291 Crouse Road,Crouse,28033,Lincoln,CD,LF,Active,8/28/2052,35.426388,-81.35371,Open
+-8692666.4146,4023166.7981,602,P0720,1002-MSWLF-,Southport Landfill,3905 St. James Drive S.E.,Southport,28461,Brunswick,MSW,LF,InactiveClosed,-,33.958022,-78.087551,Closed
+-8713143.7463,4024352.8672,603,P0721,1003-MSWLF-1979,Cedar Grove Landfill,780 Standen Lane S.W.,Holden Beach,28462,Brunswick,MSW,LF,InactiveClosed,-,33.966859,-78.271502,Closed
+-8732610.0743,4018239.9645,604,P0722,1004-MSWLF-,Ocean Isle Landfill,605-49 Yarbrough Street S.W.,Ocean Isle,28469,Brunswick,MSW,LF,InactiveClosed,-,33.921304,-78.446371,Closed
+-8689005.4505,4060164.1608,605,P0723,1005-MSWLF-,Leland Landfill,1100 Lanvale Rd. N.E.,Leland,28451,Brunswick,MSW,LF,InactiveClosed,-,34.233244,-78.054664,Closed
+-8591976.822,4248604.1723,606,P0735,74E-LCID-,Whitehurst LCID Landfill,U.S. Hwy 264 E. & S.R. 1550,Greenville,27834,Pitt,LCID,LF,InactiveClosed,-,35.621059,-77.183041,Closed
+-9124929.6822,4295221.4256,607,P0737,0603-CDLF-1996,Avery County C&D Landfill,2175 Brushy Creek Road,Spruce Pine,28777,Avery,CD,LF,Active,10/26/2055,35.960746,-81.970638,Open
+-8633434.6494,4126580.7902,608,P0739,6704-MSWLF-1982,Onslow County Landfill,415 Meadowview Road,Jacksonville,28540,Onslow,MSW,LF,InactiveClosed,-,34.725063,-77.555463,Closed
+-8611346.4134,4135344.9118,609,P0740,6701-MSWLF-,Pumpkin Center Landfill,Clayton Humphrey Road (S.R. 1408),Jacksonville,28546,Onslow,MSW,LF,InactiveClosed,-,34.789745,-77.357041,Closed
+-8658390.9208,4087301.5271,610,P0743,71A-LCID-,Running Deer LCID Landfill,7214 NC Highway 210,Rocky Point,28457,Pender,LCID,LF,Active,7/15/2020,34.434548,-77.779649,Open
+-8818532.0233,4164878.8014,611,P0744,47A-LCID-1996,Hoke County LCID Landfill,700 C.C. Steel Road,Raeford,28376,Hoke,LCID,LF,Active,7/11/2023,35.007341,-79.218221,Closed
+-8887921.8033,4299418.8282,612,P0745,41O-LCID-,Doggett Construction Co.,2075 Bishop Road,Greensboro,27406,Guilford,LCID,LF,Active,10/8/2020,35.99126,-79.84156,Open
+-8864661.7071,4374111.7718,613,P0747,79J-LCID-,"Sam W. Smith Jr., Inc. Landfill",Hwy. 135 West,Eden,27288,Rockingham,LCID,LF,InactiveClosed,-,36.532281,-79.632611,Open
+-8782177.5266,4159804.875,614,P0748,26L-LCID-,Snow Hill LCID Landfill,Claude Lee Road,Fayetteville,28306,Cumberland,LCID,LF,Active,6/30/2015,34.969999,-78.891643,Open
+-8980800.4412,4211738.2703,615,P0749,13D-LCID-1997,Charlotte Motor Speedway IV LCID,Morehead Road,Concord,28075,Cabarrus,LCID,LF,InactiveClosed,-,35.351401,-80.675903,Closed
+-8793951.0099,4203858.5488,616,P0753,4303-CDLF-1997,Harnett Co. Anderson Creek C&D Landfill,1086 Poplar Drive,Lillington,27546,Harnett,CD,LF,Active,4/17/2057,35.293647,-78.997406,Open
+-8775321.6931,4345768.7203,617,P0759,7304-MSWLF-1997,Upper Piedmont Regional Landfill,9650 Oxford Road,Rougemont,27572,Person,MSW,LF,Active,6/24/2057,36.327426,-78.830056,Open
+-9340603.7372,4188509.8288,618,P0772,2002-MSWLF-1998,Cherokee County MSW Facility,10160 U.S. Highway 19,Marble,28905,Cherokee,MSW,LF,Active,1/9/2058,35.181031,-83.908071,Open
+-8632207.686,4137096.4728,619,P0773,6709-MSWLF-1997,Onslow County Subtitle-D Landfill,415 Meadowview Road,Jacksonville,28540,Onslow,MSW,LF,Active,12/31/2057,34.802666,-77.544441,Open
+-9213567.6041,4181122.8701,620,P0778,8808-LCID-,East Fork Growers,7800 East Fork Road,Brevard,28712,Transylvania,LCID,LF,InactiveClosed,-,35.126776,-82.766886,Closed
+-8690867.1577,4203323.2419,621,P0785,9606-MSWLF-1998,Wayne County Landfill,460B South Landfill Road,Dudley,28333,Wayne,MSW,LF,Active,5/17/2059,35.289722,-78.071388,Open
+-8802382.9047,4183583.281,622,P0789,2608-CDLF-1998,Fort Bragg C&D Landfill,"Bldg. O-3454, Lamont Road",Fort Bragg,28310,Cumberland,CD,LF,InactivePermitted,7/13/2012,35.144851,-79.073151,Open
+-8779330.1967,4172793.9231,623,P0790,2601-CDLF-1997,Cumberland County C&D Unit,698 Ann Street,Fayetteville,28301,Cumberland,CD,LF*,Active,12/29/2057,35.065559,-78.866065,Open
+-8922244.7193,4204660.1257,624,P0792,8401-CDLF-1997,"Albemarle, City of CDLF",40592B Stony Gap Road,Albemarle,28001,Stanly,CD,LF*,Active,8/8/2021,35.299524,-80.149888,Open
+-8711683.1232,4034718.534,625,P0794,1007-CDLF-1997,Brunswick County CDLF,172 Landfill Road NE,Bolivia,28422,Brunswick,CD,LF*,Active,12/31/2057,34.044051,-78.258381,Open
+-9089075.1213,4270710.2681,626,P0795,1203-CDLF-1998,Burke County CDLF,2500 Marsh Trail,Morganton,28655,Burke,CD,LF*,Post-Closure,11/10/2015,35.782321,-81.648551,Open
+-9089075.1213,4270710.2681,627,P0795,1203-CDLF-2014,Burke County CDLF,2500 Marsh Trail,Morganton,28655,Burke,CD,LF,Active,1/7/2058,35.782321,-81.648551,Open
+-8963712.0089,4228068.7554,628,P0796,1302-CDLF-1998,Cabarrus County CDLF,4441 Irish Potato Road,Concord,28025,Cabarrus,CD,LF*,Post-Closure,-,35.470963,-80.522395,Open
+-8963712.0089,4228068.7554,629,P0796,1302-CDLF-2006,Cabarrus County CDLF,4441 Irish Potato Road,Concord,28025,Cabarrus,CD,LF,Active,11/30/2066,35.470963,-80.522395,Open
+-9070778.6498,4208633.6806,630,P0797,2301-CDLF-1997,Cleveland County CDLF,1608 Airport Road,Shelby,28150,Cleveland,CD,LF*,Active,12/1/2057,35.328651,-81.484191,Open
+-8633606.7493,4276282.0276,631,P0798,3301-CDLF-1997,Edgecombe County CDLF,1601 Colonial Road,Tarboro,27886,Edgecombe,CD,LF*,Active,12/30/2057,35.822915,-77.557009,Open
+-8752344.237,4351764.3956,632,P0799,3901-CDLF-1997,Granville County CDLF,6584 Landfill Road,Oxford,27565,Granville,CD,LF*,Post-Closure,-,36.370806,-78.623646,Open
+-8648830.4689,4235594.1929,633,P0800,4002-CDLF-1997,Greene County Landfill,105 Landfill Road,Walstonburg,27888,Greene,CD,LF*,Active,12/30/2057,35.526,-77.693766,Open
+-8874110.0602,4315836.26,634,P0801,4103-CDLF-1998,"Greensboro, City of White Street",2503 White Street,Greensboro,27405,Guilford,CD,LF*,Active,1/7/2058,36.110497,-79.717487,Open
+-8662026.1701,4352251.0516,635,P0802,4204-CDLF-1998,Halifax County Landfill,921 Liles Road,Littleton,27850,Halifax,CD,LF*,Post-Closure,-,36.374326,-77.812305,Open
+-8662026.1701,4352251.0516,636,P0802,4204-CDLF-2013,Halifax County Landfill,921 Liles Road,Littleton,27850,Halifax,CD,LF,Active,10/14/2079,36.374326,-77.812305,Open
+-8755005.8861,4213612.501,637,P0803,4302-CDLF-1998,Harnett County CDLF,449 Daniels Road,Dunn,28334,Harnett,CD,LF*,InactivePermitted,3/2/2058,35.365132,-78.647556,Open
+-8755005.8861,4213612.501,638,P0803,4302-CDLF-2018,Dunn-Erwin Area 2 C&D Landfill,449 Daniels Road,Dunn,28334,Harnett,CD,LF*,Active,7/23/2079,35.365132,-78.647556,Open
+-9268612.3093,4214546.1181,639,P0804,5002-CDLF-1998,Jackson County Landfill  CDLF,U.S. Hwy 441,Dillsboro,28779,Jackson,CD,LF,InactiveClosed,-,35.371971,-83.261361,Closed
+-8650777.3355,4204293.4963,640,P0805,5403-CDLF-1997,Lenoir County CDLF,2949 Hodges Farm Road,LaGrange,28551,Lenoir,CD,LF*,Active,4/2/2017,35.296836,-77.711255,Open
+-8784029.6603,4135680.5352,641,P0806,7803-CDLF-1997,Robeson County Solid Waste CDLF,246 Landfill Road,Saint Pauls,28384,Robeson,CD,LF*,Active,5/28/2020,34.792221,-78.908281,Open
+-8836800.6649,4126473.5203,642,P0807,8301-CDLF-1997,Scotland County CDLF,10701 Patterson Road,Laurinburg,28352,Scotland,CD,LF*,Active,12/31/2057,34.724271,-79.382331,Open
+-8729806.159,4351393.6117,643,P0808,9101-CDLF-1998,Vance County CDLF,NC Hwy 39,Henderson,27537,Vance,CD,LF,InactiveClosed,-,36.368124,-78.421183,Closed
+-8777603.6314,4256983.249,644,P0809,9203-CDLF-1997,Wake County CDLF,6000 Old Smithfield Road,Feltonsville,27539,Wake,CD,LF,Post-Closure,-,35.682222,-78.850555,Closed
+-8690886.416,4203323.1055,645,P0810,9601-CDLF-1997,Wayne County CDLF,460-B South Landfill Road,Dudley,28333,Wayne,CD,LF*,Active,4/30/2041,35.289721,-78.071561,Open
+-8666091.4465,4261635.2475,646,P0811,9801-CDLF-1997,Wilson County CDLF,Landfill Road (S.R. 1503),Wilson,27893,Wilson,CD,LF,InactiveClosed,-,35.716159,-77.848824,Open
+-8963138.7135,4228559.4738,647,P0813,1302-LCID-1994,Cabarrus County Landfill LCID,Irish Potato Road (S.R. 2411),Concord,28025,Cabarrus,LCID,LF,InactiveClosed,-,35.474553,-80.517245,Closed
+-9033592.2626,4278225.5526,648,P0816,0201-CDLF-1997,Alexander County CDLF,2500 Paynes Dairy Road,Taylorsville,28681,Alexander,CD,LF,Active,12/31/2057,35.83707,-81.15014,Open
+-8730872.377,4233853.2454,649,P0818,5103-MSWLF-1997,Johnston County Landfill,680 County Home Road,Smithfield,27577,Johnston,MSW,LF,Active,-,35.513271,-78.430761,Open
+-9051294.3993,4246158.2251,650,P0819,1803-MSWLF-1997,Blackburn Resource Recovery Landfill Facility,4017 Rocky Ford Road,Newton,28658,Catawba,MSW,LF,Active,7/2/2057,35.603196,-81.309161,Open
+-8922466.913,4205361.2293,651,P0820,8401-MSWLF-1999,"Albemarle, City of Landfill",40592B Stony Gap Road,Albemarle,28001,Stanly,MSW,LF,Active,8/8/2021,35.304664,-80.151884,Open
+-8875609.0884,4315534.638,652,P0823,4112-MSWLF-1997,"Greensboro, City of White Street Landfill",2503 White Street,Greensboro,27405,Guilford,MSW,LF,Active,4/14/2020,36.108308,-79.730953,Open
+-9198936.3268,4262740.6573,653,P0825,1107-CDLF-1998,Buncombe County C&D Unit,85 Panther Branch Road,Alexander,28701,Buncombe,CD,LF,Active,11/15/2056,35.724221,-82.635451,Open
+-8901149.4532,4310791.776,654,P0829,4113-TIRELF-,"Tires, Inc. - Guilford County",228 Hwy 68 S.,Greensboro,27409,Guilford,Tire,LF,InactiveClosed,-,36.073879,-79.960386,Closed
+-8661828.244,4352312.7147,655,P0830,4204-INDUS-1994,Halifax County Coal Ash Landfill,921 Liles Road,Littleton,27850,Halifax,Indus,LF,Post-Closure,-,36.374772,-77.810527,Open
+-8687692.2145,4072886.7697,656,P0848,1006-INDUS-1984,Dupont - Cape Fear Plant,3500 Daniels Road N.E.,Leland,28451,Brunswick,Indus,LF,Post-Closure,-,34.32768,-78.042867,Closed
+-9036440.2605,4216185.2928,657,P0852,3606-MSWLF-1997,Gaston County Landfill,3155 Philadelphia Church Road,Dallas,28034,Gaston,MSW,LF,Active,12/23/2057,35.383977,-81.175724,Open
+-8917215.416,4319769.1388,658,P0853,3413TEMP-INDUS-1971,Atlantic Scrap and Processing,1426 West Mountain Street,Kernersville,27284,Forsyth,Indus,LF,InactiveClosed,-,36.139034,-80.104709,Open
+-8784029.6603,4135680.5352,659,P0854,7803-MSWLF-1997,Robeson County Landfill,246 Landfill Road,Saint Pauls,28384,Robeson,MSW,LF,Active,12/29/2057,34.792221,-78.908281,Open
+-9011814.3853,4190321.5467,660,P0860,6018TP-CDLF-,Phoenix Recycling of Charlotte-Mecklbrg. (stockpiled 1999),5631 West Blvd.,Charlotte,28208,Mecklenburg,CD,LF,InactiveClosed,-,35.194332,-80.954506,Closed
+-9018449.5836,4223642.6171,661,P0865,5504-CDLF-1999,Lake Norman Landfill,7099 Quarry Lane,Stanley,28164,Lincoln,CD,LF,Active,3/25/2059,35.438575,-81.014111,Open
+-9083513.5996,4289069.3863,662,P0869,1403-MSWLF-1998,Foothills Environmental Landfill,2800 Cheraw Road,Lenoir,28645,Caldwell,MSW,LF,Active,8/26/2058,35.916001,-81.598591,Open
+-8853272.9439,4293852.4004,663,P0879,0105-CDLF-1998,Cobles C&D Landfill,5833 Foster Store Road,Liberty,27298,Alamance,CD,LF,Active,9/2/2069,35.950791,-79.530304,Open
+-8870006.0445,4314084.1038,664,P0905,41P-LCID-,Fryar Grading and Hauling LCID Landfill,5230 McLeansville Road,Mcleansville,27301,Guilford,LCID,LF,Active,4/19/2021,36.09778,-79.68062,Open
+-8614358.2735,4139172.1047,665,P0909,67E-LCID-,"Durwood Humphrey & Sons Construction Co., Inc.",1147 Clayton Humphrey Road,Jacksonville,28546,Onslow,LCID,LF,Active,-,34.817975,-77.384097,Open
+-8682438.6024,4308912.9213,666,P0910,6401-CDLF-1999,Nash County CDLF,Duke Road (S.R. 1411),Nashville,27856,Nash,CD,LF,InactiveClosed,-,36.060236,-77.995673,Closed
+-8968916.9743,4360783.4142,667,P0913,8606-MSWLF-1998,Surry County MSWLF,237 Landfill Road,Mount Airy,27030,Surry,MSW,LF,Active,12/1/2058,36.436015,-80.569152,Open
+-8778157.5572,4293852.4004,668,P0916,32J-LCID-1999,Waste Industries - Stone Park Court LCID LF,148 Stone Park Court,Durham,27703,Durham,LCID,LF,Active,1/16/2024,35.950791,-78.855531,Open
+-8730722.0957,4234160.9582,669,P0921,5101-CDLF-1998,Johnston County Landfill,680 County Home Road,Smithfield,27577,Johnston,CD,LF,Post-Closure,-,35.515521,-78.429411,Open
+-9069799.0383,4208880.6511,670,P0922,2301-MSWLF-1998,Cleveland County Landfill (Closed),1609 Airport Road,Shelby,28150,Cleveland,MSW,LF,Post-Closure,5/15/2014,35.330461,-81.475391,Open
+-8683534.8768,4308767.6449,671,P0928,6403-CDLF-2000,Nash County C&D Landfill,3057 Duke Road,Nashville,27856,Nash,CD,LF,Active,1/27/2060,36.059181,-78.005521,Open
+-8957083.6011,4168739.2646,672,P0929,9001-CDLF-1998,Union County C&D,2125 Austin Chaney Road,Wingate,28174,Union,CD,LF*,Active,5/13/2019,35.035741,-80.462851,Open
+-8747439.055,4287954.0189,673,P0931,9209-MSWLF-1996,Wake County Landfill - North,9016 Depoines Drive,Raleigh,27614,Wake,MSW,LF,Post-Closure,-,35.907886,-78.579582,Open
+-9057969.6726,4372598.6116,674,P0932,0501-MSWLF-1993,Ashe County Landfill,739 Fred Pugh Road,Crumpler,28617,Ashe,MSW,LF,Active,10/12/2020,36.521358,-81.369126,Open
+-8779710.5754,4172567.613,675,P0933,2601-MSWLF-1997,Cumberland County Landfill,698 Ann Street,Fayetteville,28301,Cumberland,MSW,LF,Active,12/17/2057,35.063895,-78.869482,Open
+-8976640.5432,4203883.0985,676,P0934,13E-LCID-,Tarheel Bark - A Division of The Garrick Corp.,8829 Rocky River Road,Harrisburg,28075,Cabarrus,LCID,LF,InactiveClosed,-,35.293827,-80.638534,Closed
+-8969265.4043,4152572.327,677,P0935,90A-LCID-,A.C. Stump Dump,3109 Plyler Mill Road,Monroe,28112,Union,LCID,LF,InactiveClosed,-,34.916741,-80.572282,Open
+-8843164.2436,4203372.7481,678,P0936,63C-LCID-,Stump Hole LCID LF,121 Holly Ridge Road,Carthage,28327,Moore,LCID,LF,InactivePermitted,9/16/2018,35.290085,-79.439496,Open
+-8882272.7845,4262007.0871,679,P0938,76C-LCID-1999,Gold Hill Road C&D Landfill,385 Gold Hill Road,Asheboro,27203,Randolph,LCID,LF,InactiveClosed,10/27/2014,35.718871,-79.790814,Open
+-8968985.7697,4360861.5921,680,P0940,8602-CDLF-2001,Surry County - Mt. Airy C&D Landfill,237 Landfill Road,Mount Airy,28621,Surry,CD,LF*,Post-Closure,-,36.43658,-80.56977,Open
