@@ -9,20 +9,26 @@
 <h1>Homework 8: Geoproccessing Analysis </h1>
 <h2>Claudia Dare</h2>
 <h2>Are Buncombe County's solid waste landfills contaminating local bodies of water?</h2>
-<a href="HW8.png">
-    <img src="HW8.png" alt="your map" width='500px'>
+<a href="HW8take2.png">
+    <img src="HW8take2.png" alt="your map" width='500px'>
     </a>
 <h3>This map answers the research question stated above. Solid waste facilities should be 500-800 Meters away from water features in order to avoid contaminating them. In this map I used a dataset of Solid Waste landfills and a dataset of water Features. I changed the attribute data to just cover Buncombe County. From there the first geoprossessing tool I used was Buffer. I buffered the landfills 800 meters to show the whole area that should be free from bodies of water. After that I applied intersection to take the overlap between the buffer I had created and the water features layer. I highlighted in red the areas of overlap. I also buffered the intersection 30 meters and created inset maps for the areas of intersection to try to make them more visible. From the map it is clear to see that Buncombe County did not do a good job of placing their solid waste landfills to avoid contamination. Of the 8 landfills in the county 6 of them are within a 800 M distance from a body of water. 
     Both of my data sets are from NC One Map and linked below.</h3>
-<h2>Data used for this project</h2>
+<h2>Data used for this project From NC One Map</h2>
     <a href="https://www.nconemap.gov/datasets/nconemap::water-bodies-western-nc-local-res/about"> Water Features Data</a>
-    <a href="Buncombe Water.shp">Water Features Data for Buncombe</a>
     <p></p>
     <a href="https://www.nconemap.gov/datasets/67d9579aeeda45a68642bb4489ca369f_0/explore?location=34.476060%2C-77.937958%2C6.64"> Waste Landfills Data</a>
+    <p></p>
+    <h2>Cleaned Data from NC One Map</h2>
+    <a href="Buncombe Water.shp">Water Features Data for Buncombe</a>
+    <p></p>
     <a href="Buncombe Waste.shp">Waste Data for Buncombe</a>
     <p></p>
+    <h2>Data I made Through Geoproccessing</h2>
     <a href="intersection of water and contamination.geojson">Intersection of Water Features and Contamination Zone</a>
+    <p></p>
     <a href="Contamination zone.geojson">Buffer around Solid Waste Sites</a>
+    <p></p>
     <a href="Buffered Contamination Zone.geojson">Buffer Around Intersection of Water Features and Contamination Zone</a>
 
 </body>
